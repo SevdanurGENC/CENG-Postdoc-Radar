@@ -5,6 +5,8 @@
 **Postdoc positions in AI, quantum, neuroinformatics, bioinformatics and software testing — collected for you three times a day.**<br>
 **Yapay zekâ, kuantum, nöroinformatik, biyoinformatik ve yazılım testi alanındaki postdoc ilanları — günde üç kez senin için toplanır.**
 
+https://sevdanurgenc.github.io/CENG-Postdoc-Radar/
+
 [![Live dashboard](https://img.shields.io/badge/Live%20dashboard-Canl%C4%B1%20pano-2747B8?style=for-the-badge)](https://sevdanurgenc.github.io/CENG-Postdoc-Radar/)
 [![Telegram](https://img.shields.io/badge/Telegram-alerts%20%C2%B7%20bildirim-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#how-it-works)
 [![Android](https://img.shields.io/badge/Android-app%20%C2%B7%20uygulama-1F7A55?style=for-the-badge&logo=android&logoColor=white)](#how-it-works)
