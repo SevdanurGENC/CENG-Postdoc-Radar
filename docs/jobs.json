@@ -1721,7 +1721,9 @@
    "matched": [],
    "langs": [],
    "foundAt": "2026-10-29",
-   "note": ""
+   "note": "",
+   "langsChecked": true,
+   "emails": []
   },
   "quantiki-org-position-theory-hybrid-quantum-systems-1": {
    "id": "quantiki-org-position-theory-hybrid-quantum-systems-1",
@@ -1729,38 +1731,64 @@
    "url": "https://www.quantiki.org/position/theory-hybrid-quantum-systems-1",
    "source": "Quantiki",
    "institution": "",
-   "country": "",
+   "country": "Fransa",
    "deadline": "2026-11-15",
    "topic": "Kuantum",
    "relevance": 1,
    "matched": [],
    "langs": [],
    "foundAt": "2026-10-29",
-   "note": ""
+   "note": "",
+   "langsChecked": true,
+   "emails": [
+    "mattia.walschaers@lkb.upmc.fr"
+   ]
+  },
+  "quantiki-org-position-postdoctoral-and-phd-opportunities-quantum-information-theory-university-brescia-italy": {
+   "id": "quantiki-org-position-postdoctoral-and-phd-opportunities-quantum-information-theory-university-brescia-italy",
+   "title": "Postdoctoral and PhD Opportunities in Quantum Information Theory - University of Brescia, Italy",
+   "url": "https://www.quantiki.org/position/postdoctoral-and-phd-opportunities-quantum-information-theory-university-brescia-italy",
+   "source": "Quantiki",
+   "institution": "University of Brescia, Italy",
+   "country": "İtalya",
+   "deadline": null,
+   "topic": "Kuantum",
+   "relevance": 2,
+   "matched": [
+    "quantum information",
+    "quantum technologies"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-30",
+   "langsChecked": true,
+   "emails": [
+    "marco.dalai@unibs.it"
+   ],
+   "note": "Eşleşen: quantum information, quantum technologies"
   }
  },
- "lastRun": "2026-10-29T12:22:47.602Z",
+ "lastRun": "2026-10-29T21:03:50.950Z",
  "log": [
+  "30/10 00:03  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, Nature Careers ABD, EURAXESS), 9 aday, 1 yeni ilan, 2 eski ilan okundu, 0 süresi geçmiş ilan silindi, 20 sn",
   "29/10 15:22  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD, Quantiki), 6 aday, 0 yeni ilan, 10 eski ilan okundu, 0 süresi geçmiş ilan silindi, 51 sn",
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 0,
+ "lastAdded": 1,
  "lastStats": {
   "pages": 90,
-  "ok": 60,
-  "fail": 30,
+  "ok": 61,
+  "fail": 29,
   "failedSources": [
    "AcademicPositions",
    "Nature Careers",
    "Science Careers",
-   "EURAXESS",
    "Nature Careers ABD",
-   "Quantiki"
+   "EURAXESS"
   ],
-  "candidates": 6,
-  "added": 0,
-  "backfilled": 10,
-  "seconds": 51
+  "candidates": 9,
+  "added": 1,
+  "backfilled": 2,
+  "seconds": 20
  }
 }
