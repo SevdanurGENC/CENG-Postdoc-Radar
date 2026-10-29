@@ -1,0 +1,14 @@
+{
+  "name": "postdoc-radar",
+  "private": true,
+  "type": "module",
+  "description": "Postdoc ilanlarını tarayan GitHub botu + GitHub Pages panosu + Android uygulaması",
+  "scripts": {
+    "scan": "node bot/run.mjs",
+    "telegram-test": "node bot/run.mjs --test-telegram",
+    "test": "node bot/test.mjs",
+    "build-web": "python3 tools/bundle.py"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": { "linkedom": "^0.18.5" }
+}
