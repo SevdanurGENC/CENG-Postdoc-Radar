@@ -11,7 +11,12 @@
    "topic": "Kuantum",
    "relevance": 3,
    "note": "Kuantum yazılım ve programlama soyutlamaları. Melih Kandemir de SDU'da.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [],
+   "langsChecked": true,
+   "emails": [
+    "qm@sdu.dk"
+   ]
   },
   "quantiki-org-position-rinn-quantum-postdoctoral-fellowships-2027-ireland": {
    "id": "quantiki-org-position-rinn-quantum-postdoctoral-fellowships-2027-ireland",
@@ -24,7 +29,10 @@
    "topic": "Kuantum",
    "relevance": 2,
    "note": "Kendi önerdiğin projeyle başvurulan bağımsız burs, son tarih uzun.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [],
+   "langsChecked": true,
+   "emails": []
   },
   "quantiki-org-position-postdoc-position-device-independent-quantum-computing-cea-saclay-paris-france": {
    "id": "quantiki-org-position-postdoc-position-device-independent-quantum-computing-cea-saclay-paris-france",
@@ -37,7 +45,12 @@
    "topic": "Kuantum",
    "relevance": 1,
    "note": "Teorik kuantum bilgi, fizik ağırlıklı.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [],
+   "langsChecked": true,
+   "emails": [
+    "jean-daniel.bancal@ipht.fr"
+   ]
   },
   "nextcloud-tuebingen-mpg-de-index-php-s-wjKjAHRidF5R4M8-opendetails": {
    "id": "nextcloud-tuebingen-mpg-de-index-php-s-wjKjAHRidF5R4M8-opendetails",
@@ -50,7 +63,10 @@
    "topic": "Nöro",
    "relevance": 3,
    "note": "NeuroAI tam senin yeni ilgi alanın. Son tarih çok yakın.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [],
+   "langsChecked": true,
+   "emails": []
   },
   "bernstein-network-de-wp-content-uploads-2026-08-260817-Stellenangebot-Postdoc-Grosse-Wentrup-pdf": {
    "id": "bernstein-network-de-wp-content-uploads-2026-08-260817-Stellenangebot-Postdoc-Grosse-Wentrup-pdf",
@@ -63,7 +79,14 @@
    "topic": "Nöro",
    "relevance": 3,
    "note": "Beyin-yapay zekâ arayüzü ve ML. Son tarih belirtilmemiş, ilanı kontrol et.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [],
+   "langsChecked": true,
+   "emails": [
+    "fsg.neuroinformatics@univie.ac.at",
+    "moritz.grosse-wentrup@univie.ac.at",
+    "elenareimar@gmail.com"
+   ]
   },
   "academicpositions-com-ad-forschungszentrum-julich-2026-postdoc-systems-neuroscience-computational-neurology-253840": {
    "id": "academicpositions-com-ad-forschungszentrum-julich-2026-postdoc-systems-neuroscience-computational-neurology-253840",
@@ -89,7 +112,17 @@
    "topic": "Nöro",
    "relevance": 2,
    "note": "Öğrenme dinamiklerinin hesaplamalı modellenmesi.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [
+    "Python",
+    "C++",
+    "MATLAB"
+   ],
+   "langsChecked": true,
+   "emails": [
+    "e084140_xz2kugt5do_1-0@jobs.ruhr-uni-bochum.de",
+    "wpr@rub.de"
+   ]
   },
   "jobs-ruhr-uni-bochum-de-jobposting-1a216242df7d11a68fb762a850c9d76a08a289ea0": {
    "id": "jobs-ruhr-uni-bochum-de-jobposting-1a216242df7d11a68fb762a850c9d76a08a289ea0",
@@ -102,7 +135,15 @@
    "topic": "Nöro",
    "relevance": 2,
    "note": "Spiking sinir ağları ve bellek modelleri.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [
+    "Python"
+   ],
+   "langsChecked": true,
+   "emails": [
+    "30994e0_f6xu0zrien_1-0@jobs.ruhr-uni-bochum.de",
+    "wpr@rub.de"
+   ]
   },
   "bernstein-network-de-wp-content-uploads-2026-10-261002-Stellenangebot-Postdoc-Cayco-Gajic-pdf": {
    "id": "bernstein-network-de-wp-content-uploads-2026-10-261002-Stellenangebot-Postdoc-Cayco-Gajic-pdf",
@@ -115,7 +156,12 @@
    "topic": "Nöro",
    "relevance": 2,
    "note": "Matematiksel nörobilim. Son tarih çok yakın.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [],
+   "langsChecked": true,
+   "emails": [
+    "elenareimar@gmail.com"
+   ]
   },
   "academictransfer-com-en-jobs-364972-postdoctoral-research-fellow-computational-neurophysiology-of-human-motivation": {
    "id": "academictransfer-com-en-jobs-364972-postdoctoral-research-fellow-computational-neurophysiology-of-human-motivation",
@@ -128,7 +174,12 @@
    "topic": "Nöro",
    "relevance": 2,
    "note": "Nijmegen'de, Donders çevresinde. Güçlü/Güçlütürk ile aynı şehir.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [],
+   "langsChecked": true,
+   "emails": [
+    "roshan.cools@donders.ru.nl"
+   ]
   },
   "com-ad-karolinska-institutet-2026-postdoctoral-researcher-in-advanced-brain-imaging-in-neurodegenerative-diseases-254322": {
    "id": "com-ad-karolinska-institutet-2026-postdoctoral-researcher-in-advanced-brain-imaging-in-neurodegenerative-diseases-254322",
@@ -154,7 +205,15 @@
    "topic": "Nöro",
    "relevance": 2,
    "note": "Bilgisayarlı görü ve nörolojik hasta takibi.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [
+    "Python",
+    "MATLAB"
+   ],
+   "langsChecked": true,
+   "emails": [
+    "e.vanderkruk@tudelft.nl"
+   ]
   },
   "academicpositions-com-ad-university-of-luxembourg-2026-postdoc-in-computational-biology-and-machine-learning-245699": {
    "id": "academicpositions-com-ad-university-of-luxembourg-2026-postdoc-in-computational-biology-and-machine-learning-245699",
@@ -310,7 +369,14 @@
    "topic": "ML",
    "relevance": 2,
    "note": "ML tarafı uygun, konu yer bilimi.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [
+    "Python"
+   ],
+   "langsChecked": true,
+   "emails": [
+    "c.o.vanijzendoorn@uu.nl"
+   ]
   },
   "academicpositions-com-ad-university-of-bern-2026-2-postdoctoral-positions-in-deep-learning-253213": {
    "id": "academicpositions-com-ad-university-of-bern-2026-2-postdoctoral-positions-in-deep-learning-253213",
@@ -362,7 +428,14 @@
    "topic": "ML",
    "relevance": 1,
    "note": "Sağlık boyutu var ama GIS doktorası isteniyor.",
-   "foundAt": "2026-10-24"
+   "foundAt": "2026-10-24",
+   "langs": [
+    "Python"
+   ],
+   "langsChecked": true,
+   "emails": [
+    "s.m.labib@uu.nl"
+   ]
   },
   "academicpositions-com-ad-university-of-agder-uia-2026-post-doctoral-research-fellow-in-ict-253914": {
    "id": "academicpositions-com-ad-university-of-agder-uia-2026-post-doctoral-research-fellow-in-ict-253914",
@@ -376,9 +449,1350 @@
    "relevance": 1,
    "note": "Geniş kapsamlı BİT pozisyonu.",
    "foundAt": "2026-10-24"
+  },
+  "nature-com-naturecareers-job-12865937-postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics": {
+   "id": "nature-com-naturecareers-job-12865937-postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics",
+   "title": "Postdoctoral Associate - Cancer Bioinformatics, Biostatistics, and Multi-Omics",
+   "url": "https://www.nature.com/naturecareers/job/12865937/postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics/",
+   "source": "Nature Careers",
+   "institution": "Baylor College of Medicine (BCM)",
+   "country": "ABD",
+   "deadline": "2026-12-20",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics"
+   ],
+   "langs": [
+    "Python",
+    "R",
+    "Linux"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics"
+  },
+  "nature-com-naturecareers-job-12865089-postdoctoral-researcher-in-biomedical-ai-and-federated-mlops": {
+   "id": "nature-com-naturecareers-job-12865089-postdoctoral-researcher-in-biomedical-ai-and-federated-mlops",
+   "title": "Postdoctoral researcher in Biomedical AI & Federated MLOps",
+   "url": "https://www.nature.com/naturecareers/job/12865089/postdoctoral-researcher-in-biomedical-ai-and-federated-mlops/",
+   "source": "Nature Careers",
+   "institution": "University of Luxembourg",
+   "country": "Lüksemburg",
+   "deadline": "2026-11-27",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "systems biology",
+    "biomedical",
+    "medical ai",
+    "ai"
+   ],
+   "langs": [
+    "Python",
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "Git"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: systems biology, biomedical, medical ai, ai"
+  },
+  "nature-com-naturecareers-job-12865341-postdoctoral-researcher-in-computational-proteomics-and-machine-learning": {
+   "id": "nature-com-naturecareers-job-12865341-postdoctoral-researcher-in-computational-proteomics-and-machine-learning",
+   "title": "Postdoctoral Researcher in Computational Proteomics and Machine Learning",
+   "url": "https://www.nature.com/naturecareers/job/12865341/postdoctoral-researcher-in-computational-proteomics-and-machine-learning/",
+   "source": "Nature Careers",
+   "institution": "University of Southern Denmark (SDU)",
+   "country": "Danimarka",
+   "deadline": "2026-11-16",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "omics",
+    "proteomics",
+    "machine learning"
+   ],
+   "langs": [
+    "Python"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: omics, proteomics, machine learning"
+  },
+  "nature-com-naturecareers-job-12865301-postdoctoral-research-fellow-biostatistics-machine-learning-hovestadt-lab": {
+   "id": "nature-com-naturecareers-job-12865301-postdoctoral-research-fellow-biostatistics-machine-learning-hovestadt-lab",
+   "title": "Postdoctoral Research Fellow- Biostatistics/Machine Learning - Hovestadt Lab",
+   "url": "https://www.nature.com/naturecareers/job/12865301/postdoctoral-research-fellow-biostatistics-machine-learning-hovestadt-lab/",
+   "source": "Nature Careers",
+   "institution": "Dana-Farber Cancer Institute (DFCI)",
+   "country": "ABD",
+   "deadline": "2026-12-01",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "genomics",
+    "omics",
+    "machine learning",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "JamesA_McLean@dfci.harvard.edu"
+   ],
+   "note": "Eşleşen: computational biology, genomics, omics, machine learning"
+  },
+  "nature-com-naturecareers-job-12865597-postdoctoral-fellow-in-spatial-biology-LinkSource-PremiumListing": {
+   "id": "nature-com-naturecareers-job-12865597-postdoctoral-fellow-in-spatial-biology-LinkSource-PremiumListing",
+   "title": "Postdoctoral Fellow in Spatial Biology",
+   "url": "https://www.nature.com/naturecareers/job/12865597/postdoctoral-fellow-in-spatial-biology/?LinkSource=PremiumListing",
+   "source": "Nature Careers",
+   "institution": "Icahn School of Medicine at Mount S",
+   "country": "ABD",
+   "deadline": "2026-12-11",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "multi-omics",
+    "omics",
+    "machine learning",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "guo-cheng.yuan@mssm.edu"
+   ],
+   "note": "Eşleşen: multi-omics, omics, machine learning, ai"
+  },
+  "nature-com-naturecareers-job-12865589-postdoctoral-associate-clinical-bioinformatics": {
+   "id": "nature-com-naturecareers-job-12865589-postdoctoral-associate-clinical-bioinformatics",
+   "title": "Postdoctoral Associate - Clinical Bioinformatics",
+   "url": "https://www.nature.com/naturecareers/job/12865589/postdoctoral-associate-clinical-bioinformatics/",
+   "source": "Nature Careers",
+   "institution": "Baylor College of Medicine (BCM)",
+   "country": "ABD",
+   "deadline": "2026-12-09",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "clinical data",
+    "biostatistics",
+    "machine learning",
+    "artificial intelligence"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: bioinformatics, clinical data, biostatistics, machine learning"
+  },
+  "nature-com-naturecareers-job-12863006-postdoctoral-associate-in-computational-biology": {
+   "id": "nature-com-naturecareers-job-12863006-postdoctoral-associate-in-computational-biology",
+   "title": "Postdoctoral Associate in Computational Biology",
+   "url": "https://www.nature.com/naturecareers/job/12863006/postdoctoral-associate-in-computational-biology/",
+   "source": "Nature Careers",
+   "institution": "Harvard T.H. Chan School of Public Health - Haber Lab",
+   "country": "ABD",
+   "deadline": "2026-11-25",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "genomics",
+    "omics",
+    "machine learning"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: computational biology, genomics, omics, machine learning"
+  },
+  "nature-com-naturecareers-job-12865555-postdoctoral-research-in-plant-regulatory-genomics-and-artificial-intelligence": {
+   "id": "nature-com-naturecareers-job-12865555-postdoctoral-research-in-plant-regulatory-genomics-and-artificial-intelligence",
+   "title": "Postdoctoral research in plant regulatory genomics and artificial intelligence",
+   "url": "https://www.nature.com/naturecareers/job/12865555/postdoctoral-research-in-plant-regulatory-genomics-and-artificial-intelligence/",
+   "source": "Nature Careers",
+   "institution": "Aarhus University (AU)",
+   "country": "Danimarka",
+   "deadline": "2026-11-20",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "genomics",
+    "omics",
+    "deep learning",
+    "artificial intelligence"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "ramstein@qgg.au.dk",
+    "koo@cshl.edu"
+   ],
+   "note": "Eşleşen: bioinformatics, genomics, omics, deep learning"
+  },
+  "nature-com-naturecareers-job-12864661-postdoctoral-scholar-in-visual-system-neurobiology-and-multi-omics": {
+   "id": "nature-com-naturecareers-job-12864661-postdoctoral-scholar-in-visual-system-neurobiology-and-multi-omics",
+   "title": "Postdoctoral Scholar in Visual System Neurobiology & Multi-Omics",
+   "url": "https://www.nature.com/naturecareers/job/12864661/postdoctoral-scholar-in-visual-system-neurobiology-and-multi-omics/",
+   "source": "Nature Careers",
+   "institution": "University of California Los Angeles",
+   "country": "ABD",
+   "deadline": "2026-12-15",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "genomics",
+    "multi-omics"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "yirongpeng@mednet.ucla.edu"
+   ],
+   "note": "Eşleşen: bioinformatics, genomics, multi-omics"
+  },
+  "eers-job-12865021-postdoctoral-studies-in-in-single-cell-and-computational-biology-scholarship-LinkSource-PremiumListing": {
+   "id": "eers-job-12865021-postdoctoral-studies-in-in-single-cell-and-computational-biology-scholarship-LinkSource-PremiumListing",
+   "title": "Postdoctoral studies in in single-cell and computational biology (scholarship)",
+   "url": "https://www.nature.com/naturecareers/job/12865021/postdoctoral-studies-in-in-single-cell-and-computational-biology-scholarship-/?LinkSource=PremiumListing",
+   "source": "Nature Careers",
+   "institution": "Karolinska Institutet (KI)",
+   "country": "İsveç",
+   "deadline": "2026-11-24",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "single-cell"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: bioinformatics, computational biology, single-cell"
+  },
+  "nature-com-naturecareers-job-12863254-postdoctoral-research-associate-position-in-computational-biology-pritykin-lab": {
+   "id": "nature-com-naturecareers-job-12863254-postdoctoral-research-associate-position-in-computational-biology-pritykin-lab",
+   "title": "Postdoctoral Research Associate Position in Computational Biology - Pritykin Lab",
+   "url": "https://www.nature.com/naturecareers/job/12863254/postdoctoral-research-associate-position-in-computational-biology-pritykin-lab/",
+   "source": "Nature Careers",
+   "institution": "Princeton University",
+   "country": "ABD",
+   "deadline": "2026-11-02",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics",
+    "machine learning",
+    "data science"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "pritykin@princeton.edu"
+   ],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics, machine learning"
+  },
+  "doc-position-for-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology-LinkSource-PremiumListing": {
+   "id": "doc-position-for-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology-LinkSource-PremiumListing",
+   "title": "Postdoc Position for Computational Genomics, AI Precision Oncology, Cancer Biology and Immunobiology",
+   "url": "https://www.nature.com/naturecareers/job/12865407/postdoc-position-for-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology/?LinkSource=PremiumListing",
+   "source": "Nature Careers",
+   "institution": "Competitive salary commensurate with experience (minimum per NIH/NRSA guidelines)",
+   "country": "ABD",
+   "deadline": "2026-12-05",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "genomics",
+    "omics",
+    "pathology",
+    "machine learning",
+    "ai"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "wangxrecruit@gmail.com"
+   ],
+   "note": "Eşleşen: genomics, omics, pathology, machine learning"
+  },
+  "nature-com-naturecareers-job-12865300-postdoctoral-research-fellow-computational-biology-ghobrial-lab": {
+   "id": "nature-com-naturecareers-job-12865300-postdoctoral-research-fellow-computational-biology-ghobrial-lab",
+   "title": "Postdoctoral Research Fellow - Computational Biology - Ghobrial Lab",
+   "url": "https://www.nature.com/naturecareers/job/12865300/postdoctoral-research-fellow-computational-biology-ghobrial-lab/",
+   "source": "Nature Careers",
+   "institution": "Dana-Farber Cancer Institute (DFCI)",
+   "country": "ABD",
+   "deadline": "2026-12-01",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics",
+    "machine learning",
+    "artificial intelligence"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics, machine learning"
+  },
+  "nature-com-naturecareers-job-12865117-postdoc-opportunity-at-msk-research-scholar-computational-oncology-immuno-oncology": {
+   "id": "nature-com-naturecareers-job-12865117-postdoc-opportunity-at-msk-research-scholar-computational-oncology-immuno-oncology",
+   "title": "Postdoc Opportunity at MSK: Research Scholar, Computational Oncology/Immuno Oncology",
+   "url": "https://www.nature.com/naturecareers/job/12865117/postdoc-opportunity-at-msk-research-scholar-computational-oncology-immuno-oncology-/",
+   "source": "Nature Careers",
+   "institution": "Memorial Sloan Kettering Cancer Center",
+   "country": "ABD",
+   "deadline": "2026-12-27",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "omics",
+    "biostatistics"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "raduc@mskcc.org"
+   ],
+   "note": "Eşleşen: computational biology, omics, biostatistics"
+  },
+  "nature-com-naturecareers-job-12862112-postdoctoral-fellows-immunology-and-bioengineering": {
+   "id": "nature-com-naturecareers-job-12862112-postdoctoral-fellows-immunology-and-bioengineering",
+   "title": "Postdoctoral Fellows — Immunology and Bioengineering",
+   "url": "https://www.nature.com/naturecareers/job/12862112/postdoctoral-fellows-immunology-and-bioengineering/",
+   "source": "Nature Careers ABD",
+   "institution": "Johns Hopkins Medicine - Laboratory of Human Biomimetics",
+   "country": "ABD",
+   "deadline": "2026-11-16",
+   "topic": "Yazılım",
+   "relevance": 3,
+   "matched": [
+    "omics",
+    "single-cell",
+    "biomedical"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: omics, single-cell, biomedical"
+  },
+  "12866123-postdoctoral-research-associate-computational-biology-computational-mass-spectrometry-LinkSource-PremiumListing": {
+   "id": "12866123-postdoctoral-research-associate-computational-biology-computational-mass-spectrometry-LinkSource-PremiumListing",
+   "title": "Postdoctoral Research Associate - Computational biology/computational mass spectrometry",
+   "url": "https://www.nature.com/naturecareers/job/12866123/postdoctoral-research-associate-computational-biology-computational-mass-spectrometry/?LinkSource=PremiumListing",
+   "source": "Nature Careers ABD",
+   "institution": "Ludwig Princeton Branch, Princeton University",
+   "country": "ABD",
+   "deadline": "2026-12-26",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "omics",
+    "machine learning",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: bioinformatics, computational biology, omics, machine learning"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-AXJEHD35Q4K34CUMFZBQWMHS2XIGYHSY": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-AXJEHD35Q4K34CUMFZBQWMHS2XIGYHSY",
+   "title": "Open PhD and postdoc positions in computational neuroscience/neuroAI",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/AXJEHD35Q4K34CUMFZBQWMHS2XIGYHSY/",
+   "source": "comp-neuro listesi",
+   "institution": "",
+   "country": "Almanya",
+   "deadline": null,
+   "topic": "Nöro",
+   "relevance": 3,
+   "matched": [
+    "computational neuroscience",
+    "neuroai",
+    "reinforcement learning",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "comp-neuro@lists.cnsorg.org-AXJEHD35Q4K34CUMFZBQWMHS2XIGYHSY.mbox.gz"
+   ],
+   "note": "Eşleşen: computational neuroscience, neuroai, reinforcement learning, ai"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-WGOYPG3HG6ZSCCIRK3BEONP7EXLDJPWO": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-WGOYPG3HG6ZSCCIRK3BEONP7EXLDJPWO",
+   "title": "Postdoctoral position: Computational neuroscience, nonlinear dynamics, and control (University of Arizona)",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/WGOYPG3HG6ZSCCIRK3BEONP7EXLDJPWO/",
+   "source": "comp-neuro listesi",
+   "institution": "",
+   "country": "ABD",
+   "deadline": null,
+   "topic": "Nöro",
+   "relevance": 3,
+   "matched": [
+    "computational neuroscience",
+    "eeg",
+    "neural network"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "drew@arizona.edu",
+    "comp-neuro@lists.cnsorg.org-WGOYPG3HG6ZSCCIRK3BEONP7EXLDJPWO.mbox.gz"
+   ],
+   "note": "Eşleşen: computational neuroscience, eeg, neural network"
+  },
+  "quantiki-org-position-postdoctoral-position-modeling-sisige-and-gegesi-spin-qubits-cea-grenoble-france-1": {
+   "id": "quantiki-org-position-postdoctoral-position-modeling-sisige-and-gegesi-spin-qubits-cea-grenoble-france-1",
+   "title": "Postdoctoral position on the modeling of Si/SiGe and Ge/GeSi spin qubits at CEA Grenoble, France.",
+   "url": "https://www.quantiki.org/position/postdoctoral-position-modeling-sisige-and-gegesi-spin-qubits-cea-grenoble-france-1",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "Fransa",
+   "deadline": "2026-12-31",
+   "topic": "Kuantum",
+   "relevance": 2,
+   "matched": [
+    "quantum computing",
+    "quantum information",
+    "qubit"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "yniquet@cea.fr"
+   ],
+   "note": "Eşleşen: quantum computing, quantum information, qubit"
+  },
+  "quantiki-org-position-postdoc-quantum-microwave-optics-conversion-cnrs": {
+   "id": "quantiki-org-position-postdoc-quantum-microwave-optics-conversion-cnrs",
+   "title": "Postdoc in quantum microwave-to-optics conversion at CNRS",
+   "url": "https://www.quantiki.org/position/postdoc-quantum-microwave-optics-conversion-cnrs",
+   "source": "Quantiki",
+   "institution": "Postdoc in quantum microwave-to-optics conversion at CNRS",
+   "country": "Fransa",
+   "deadline": "2026-11-20",
+   "topic": "Kuantum",
+   "relevance": 2,
+   "matched": [
+    "quantum information",
+    "qubit",
+    "quantum technologies"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "Julien.renard@neel.cnrs.fr",
+    "jeremie.viennot@neel.cnrs.fr"
+   ],
+   "note": "Eşleşen: quantum information, qubit, quantum technologies"
+  },
+  "quantiki-org-position-postdoctoral-fellowship-position-rydberg-optical-tweezer-arrays": {
+   "id": "quantiki-org-position-postdoctoral-fellowship-position-rydberg-optical-tweezer-arrays",
+   "title": "Postdoctoral Fellowship Position in Rydberg Optical Tweezer Arrays",
+   "url": "https://www.quantiki.org/position/postdoctoral-fellowship-position-rydberg-optical-tweezer-arrays",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "ABD",
+   "deadline": "2026-12-15",
+   "topic": "Kuantum",
+   "relevance": 3,
+   "matched": [
+    "quantum information",
+    "qubit",
+    "quantum technologies",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "biedermann@ou.edu"
+   ],
+   "note": "Eşleşen: quantum information, qubit, quantum technologies, ai"
+  },
+  "bernstein-network-de-en-network-awards-and-initiatives-brains-for-brains-young-researcher-award": {
+   "id": "bernstein-network-de-en-network-awards-and-initiatives-brains-for-brains-young-researcher-award",
+   "title": "Brains for Brains Young Researcher Award",
+   "url": "https://bernstein-network.de/en/network/awards-and-initiatives/brains-for-brains-young-researcher-award/",
+   "source": "Bernstein Network",
+   "institution": "Bernstein Network Computational Neuroscience",
+   "country": "Almanya",
+   "deadline": "2027-04-14",
+   "topic": "Nöro",
+   "relevance": 3,
+   "matched": [
+    "computational neuroscience"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "bernstein.network@fz-juelich.de"
+   ],
+   "note": "Eşleşen: computational neuroscience"
+  },
+  "bernstein-network-de-en-bernstein-conference-early-career-scientists-postdoc-meeting": {
+   "id": "bernstein-network-de-en-bernstein-conference-early-career-scientists-postdoc-meeting",
+   "title": "Postdoc Meeting",
+   "url": "https://bernstein-network.de/en/bernstein-conference/early-career-scientists/postdoc-meeting/",
+   "source": "Bernstein Network",
+   "institution": "Bernstein Network Computational Neuroscience",
+   "country": "Almanya",
+   "deadline": null,
+   "topic": "Nöro",
+   "relevance": 3,
+   "matched": [
+    "computational neuroscience"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: computational neuroscience"
+  },
+  "cipmm-uni-saarland-de-en-physiology-ag-sauer-news-stories": {
+   "id": "cipmm-uni-saarland-de-en-physiology-ag-sauer-news-stories",
+   "title": "Postdoc position: Investigating neuronal mechanisms of learning",
+   "url": "https://cipmm.uni-saarland.de/en/physiology/ag-sauer/news-stories",
+   "source": "Bernstein Network",
+   "institution": "",
+   "country": "Almanya",
+   "deadline": "2026-10-31",
+   "topic": "Nöro",
+   "relevance": 3,
+   "matched": [
+    "computational neuroscience"
+   ],
+   "langs": [
+    "Python",
+    "JavaScript"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "sekretariat-sauer@uni-saarland.de",
+    "jonas.sauer@uni-saarland.de"
+   ],
+   "note": "Eşleşen: computational neuroscience"
+  },
+  "nature-com-naturecareers-job-12864921-postdoctoral-fellow-in-computational-systems-biology-at-cic-biogune": {
+   "id": "nature-com-naturecareers-job-12864921-postdoctoral-fellow-in-computational-systems-biology-at-cic-biogune",
+   "title": "Postdoctoral Fellow in Computational Systems Biology at CIC bioGUNE",
+   "url": "https://www.nature.com/naturecareers/job/12864921/postdoctoral-fellow-in-computational-systems-biology-at-cic-biogune/",
+   "source": "Nature Careers",
+   "institution": "CIC bioGUNE (Asociación Centro de Investigación Cooperativa en Biociencias)",
+   "country": "İspanya",
+   "deadline": "2026-11-22",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "systems biology",
+    "machine learning"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "adelsol@cicbiogune.es"
+   ],
+   "note": "Eşleşen: bioinformatics, computational biology, systems biology, machine learning"
+  },
+  "com-naturecareers-job-12862383-postdoctoral-associate-research-scientist-in-systems-neuroscience-and-or-neuroengineering": {
+   "id": "com-naturecareers-job-12862383-postdoctoral-associate-research-scientist-in-systems-neuroscience-and-or-neuroengineering",
+   "title": "Postdoctoral Associate / Research Scientist in Systems Neuroscience and/or Neuroengineering",
+   "url": "https://www.nature.com/naturecareers/job/12862383/postdoctoral-associate-research-scientist-in-systems-neuroscience-and-or-neuroengineering/",
+   "source": "Nature Careers",
+   "institution": "University of Pittsburgh",
+   "country": "ABD",
+   "deadline": "2026-11-03",
+   "topic": "Nöro",
+   "relevance": 3,
+   "matched": [
+    "systems neuroscience",
+    "machine learning",
+    "data science"
+   ],
+   "langs": [
+    "Python",
+    "MATLAB"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "hes100@pitt.edu"
+   ],
+   "note": "Eşleşen: systems neuroscience, machine learning, data science"
+  },
+  "m-naturecareers-job-12865863-postdoctoral-fellowship-in-ai-advanced-materials-and-planetary-health-at-bidmap-uc-berkeley": {
+   "id": "m-naturecareers-job-12865863-postdoctoral-fellowship-in-ai-advanced-materials-and-planetary-health-at-bidmap-uc-berkeley",
+   "title": "Postdoctoral Fellowship in AI, Advanced Materials, and Planetary Health At BIDMaP, UC Berkeley",
+   "url": "https://www.nature.com/naturecareers/job/12865863/-postdoctoral-fellowship-in-ai-advanced-materials-and-planetary-health-at-bidmap-uc-berkeley/",
+   "source": "Nature Careers",
+   "institution": "UC Berkeley, Bakar Institute of Digital Materials for the Planet",
+   "country": "ABD",
+   "deadline": "2026-11-18",
+   "topic": "ML",
+   "relevance": 2,
+   "matched": [
+    "machine learning",
+    "data science",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: machine learning, data science, ai"
+  },
+  "aturecareers-job-12866174-postdoctoral-research-associate-ai-machine-learning-for-biochemistry-LinkSource-PremiumListing": {
+   "id": "aturecareers-job-12866174-postdoctoral-research-associate-ai-machine-learning-for-biochemistry-LinkSource-PremiumListing",
+   "title": "Postdoctoral Research Associate - AI/machine learning for biochemistry",
+   "url": "https://www.nature.com/naturecareers/job/12866174/postdoctoral-research-associate-ai-machine-learning-for-biochemistry/?LinkSource=PremiumListing",
+   "source": "Nature Careers",
+   "institution": "Ludwig Princeton Branch, Princeton University",
+   "country": "ABD",
+   "deadline": "2026-12-27",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "drug discovery",
+    "machine learning",
+    "artificial intelligence"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: computational biology, drug discovery, machine learning, artificial intelligence"
+  },
+  "nature-com-naturecareers-job-12865429-postdoc-in-ai-driven-design-of-environment-responsive-antibodies-and-nanobodies": {
+   "id": "nature-com-naturecareers-job-12865429-postdoc-in-ai-driven-design-of-environment-responsive-antibodies-and-nanobodies",
+   "title": "Postdoc in AI-driven design of environment-responsive antibodies and nanobodies",
+   "url": "https://www.nature.com/naturecareers/job/12865429/postdoc-in-ai-driven-design-of-environment-responsive-antibodies-and-nanobodies/",
+   "source": "Nature Careers",
+   "institution": "Technical University of Denmark (DTU)",
+   "country": "Danimarka",
+   "deadline": "2026-11-03",
+   "topic": "ML",
+   "relevance": 2,
+   "matched": [
+    "machine learning",
+    "deep learning",
+    "generative model"
+   ],
+   "langs": [
+    "Python",
+    "PyTorch",
+    "JAX"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "ahola@bio.dtu.dk"
+   ],
+   "note": "Eşleşen: machine learning, deep learning, generative model"
+  },
+  "nature-com-naturecareers-job-12865725-postdoctoral-research-associate-biostatistics": {
+   "id": "nature-com-naturecareers-job-12865725-postdoctoral-research-associate-biostatistics",
+   "title": "Postdoctoral Research Associate - Biostatistics",
+   "url": "https://www.nature.com/naturecareers/job/12865725/postdoctoral-research-associate-biostatistics/",
+   "source": "Nature Careers",
+   "institution": "s Research Hospital",
+   "country": "ABD",
+   "deadline": "2026-12-13",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "biostatistics",
+    "machine learning"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: biostatistics, machine learning"
+  },
+  "nature-com-naturecareers-job-12864996-postdoc-in-ai-for-biomedicine-casale-group": {
+   "id": "nature-com-naturecareers-job-12864996-postdoc-in-ai-for-biomedicine-casale-group",
+   "title": "Postdoc in AI for Biomedicine - Casale Group",
+   "url": "https://www.nature.com/naturecareers/job/12864996/postdoc-in-ai-for-biomedicine-casale-group/",
+   "source": "Nature Careers",
+   "institution": "Human Technopole",
+   "country": "İtalya",
+   "deadline": "2026-11-04",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "single-cell",
+    "biomedical",
+    "machine learning",
+    "data science"
+   ],
+   "langs": [
+    "Python",
+    "PyTorch",
+    "JAX"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: computational biology, single-cell, biomedical, machine learning"
+  },
+  "nature-com-naturecareers-job-12865041-ai-ml-postdoctoral-fellow": {
+   "id": "nature-com-naturecareers-job-12865041-ai-ml-postdoctoral-fellow",
+   "title": "AI/ML Postdoctoral Fellow",
+   "url": "https://www.nature.com/naturecareers/job/12865041/ai-ml-postdoctoral-fellow/",
+   "source": "Nature Careers",
+   "institution": "Francis Crick Institute",
+   "country": "Birleşik Krallık",
+   "deadline": "2026-11-24",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "genomics",
+    "omics",
+    "machine learning",
+    "foundation model"
+   ],
+   "langs": [
+    "Python",
+    "PyTorch",
+    "JAX"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "ruby.oluwafemi@crick.ac.uk"
+   ],
+   "note": "Eşleşen: computational biology, genomics, omics, machine learning"
+  },
+  "nature-com-naturecareers-job-12864992-postdoc-in-statistical-genetics-casale-group": {
+   "id": "nature-com-naturecareers-job-12864992-postdoc-in-statistical-genetics-casale-group",
+   "title": "Postdoc in Statistical Genetics - Casale Group",
+   "url": "https://www.nature.com/naturecareers/job/12864992/postdoc-in-statistical-genetics-casale-group/",
+   "source": "Nature Careers",
+   "institution": "Human Technopole",
+   "country": "İtalya",
+   "deadline": "2026-11-04",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "single-cell",
+    "biomedical",
+    "health data",
+    "machine learning",
+    "data science"
+   ],
+   "langs": [
+    "Python"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: single-cell, biomedical, health data, machine learning"
+  },
+  "nature-com-naturecareers-job-12865100-postdoctoral-researcher-in-ai-for-digital-forensics": {
+   "id": "nature-com-naturecareers-job-12865100-postdoctoral-researcher-in-ai-for-digital-forensics",
+   "title": "Postdoctoral Researcher in AI for Digital Forensics",
+   "url": "https://www.nature.com/naturecareers/job/12865100/postdoctoral-researcher-in-ai-for-digital-forensics/",
+   "source": "Nature Careers",
+   "institution": "University of Luxembourg",
+   "country": "Lüksemburg",
+   "deadline": "2026-11-27",
+   "topic": "ML",
+   "relevance": 2,
+   "matched": [
+    "machine learning",
+    "artificial intelligence",
+    "generative ai"
+   ],
+   "langs": [
+    "Linux"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: machine learning, artificial intelligence, generative ai"
+  },
+  "nature-com-naturecareers-job-12864880-postdoctoral-fellow": {
+   "id": "nature-com-naturecareers-job-12864880-postdoctoral-fellow",
+   "title": "Postdoctoral fellow",
+   "url": "https://www.nature.com/naturecareers/job/12864880/postdoctoral-fellow-/",
+   "source": "Nature Careers",
+   "institution": "UCSF, Division of Cardiology, Pirruccello Lab ",
+   "country": "ABD",
+   "deadline": "2026-11-21",
+   "topic": "ML",
+   "relevance": 2,
+   "matched": [
+    "deep learning",
+    "computer vision"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "James.Pirruccello@ucsf.edu",
+    "ames.Pirruccello@ucsf.edu"
+   ],
+   "note": "Eşleşen: deep learning, computer vision"
+  },
+  "nature-com-naturecareers-job-12862114-postdoctoral-positions-in-single-cell-and-spatial-transcriptomics": {
+   "id": "nature-com-naturecareers-job-12862114-postdoctoral-positions-in-single-cell-and-spatial-transcriptomics",
+   "title": "Postdoctoral Positions in Single-Cell and Spatial Transcriptomics",
+   "url": "https://www.nature.com/naturecareers/job/12862114/postdoctoral-positions-in-single-cell-and-spatial-transcriptomics/",
+   "source": "Nature Careers",
+   "institution": "Carrasquillo Lab, National Center for Complementary and Integrative Health,  National Institutes of Health",
+   "country": "ABD",
+   "deadline": "2026-11-01",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "omics"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "Yarimar.carrasquillo@nih.gov"
+   ],
+   "note": "Eşleşen: bioinformatics, computational biology, omics"
+  },
+  "nature-com-naturecareers-job-12864414-postdoctoral-fellow": {
+   "id": "nature-com-naturecareers-job-12864414-postdoctoral-fellow",
+   "title": "Postdoctoral Fellow",
+   "url": "https://www.nature.com/naturecareers/job/12864414/postdoctoral-fellow/",
+   "source": "Nature Careers",
+   "institution": "Univ. Alabama, Birmingham",
+   "country": "Birleşik Krallık",
+   "deadline": "2026-11-07",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "multi-omics",
+    "omics"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "gangliu@uabmc.edu"
+   ],
+   "note": "Eşleşen: bioinformatics, multi-omics, omics"
+  },
+  "nature-com-naturecareers-job-12864315-postdoctoral-position-in-immunology-and-physiology": {
+   "id": "nature-com-naturecareers-job-12864315-postdoctoral-position-in-immunology-and-physiology",
+   "title": "Postdoctoral Position in Immunology and Physiology",
+   "url": "https://www.nature.com/naturecareers/job/12864315/postdoctoral-position-in-immunology-and-physiology/",
+   "source": "Nature Careers",
+   "institution": "New York University Grossman School of Medicine",
+   "country": "ABD",
+   "deadline": "2026-11-04",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "omics"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "stefan.feske@nyulangone.org"
+   ],
+   "note": "Eşleşen: bioinformatics, omics"
+  },
+  "urecareers-job-12866124-postdoctoral-researcher-1-year-initial-appointment-experimental-systems-neuroscience-of-positive": {
+   "id": "urecareers-job-12866124-postdoctoral-researcher-1-year-initial-appointment-experimental-systems-neuroscience-of-positive",
+   "title": "Postdoctoral Researcher (1-year-initial appointment) - Experimental Systems Neuroscience of Positive",
+   "url": "https://www.nature.com/naturecareers/job/12866124/postdoctoral-researcher-1-year-initial-appointment-experimental-systems-neuroscience-of-positive/",
+   "source": "Nature Careers",
+   "institution": "Zentralinstitut für Seelische Gesundheit",
+   "country": "Almanya",
+   "deadline": "2026-11-26",
+   "topic": "Nöro",
+   "relevance": 2,
+   "matched": [
+    "systems neuroscience"
+   ],
+   "langs": [
+    "Python",
+    "MATLAB"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "shimpei.ishiyama@zi-mannheim.de"
+   ],
+   "note": "Eşleşen: systems neuroscience"
+  },
+  "m-naturecareers-job-12864714-postdoctoral-researcher-f-m-x-event-segmentation-and-laminar-7t-fmri-in-alzheimer-s-disease": {
+   "id": "m-naturecareers-job-12864714-postdoctoral-researcher-f-m-x-event-segmentation-and-laminar-7t-fmri-in-alzheimer-s-disease",
+   "title": "Postdoctoral Researcher (f/m/x) — Event Segmentation and Laminar 7T fMRI in Alzheimer's Disease...",
+   "url": "https://www.nature.com/naturecareers/job/12864714/postdoctoral-researcher-f-m-x-event-segmentation-and-laminar-7t-fmri-in-alzheimer-s-disease-/",
+   "source": "Nature Careers",
+   "institution": "Helmholtz Association of German Research Centres",
+   "country": "Almanya",
+   "deadline": "2026-11-14",
+   "topic": "Nöro",
+   "relevance": 2,
+   "matched": [
+    "fmri",
+    "neuroimaging"
+   ],
+   "langs": [
+    "Python",
+    "R",
+    "MATLAB"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "david.berron@dzne.de"
+   ],
+   "note": "Eşleşen: fmri, neuroimaging"
+  },
+  "nature-com-naturecareers-job-12864419-postdoctoral-research-fellow-human-neuroimmunology-brain-organoids-and-multi-omics": {
+   "id": "nature-com-naturecareers-job-12864419-postdoctoral-research-fellow-human-neuroimmunology-brain-organoids-and-multi-omics",
+   "title": "Postdoctoral Research Fellow – Human Neuroimmunology, Brain Organoids and Multi-omics",
+   "url": "https://www.nature.com/naturecareers/job/12864419/postdoctoral-research-fellow-human-neuroimmunology-brain-organoids-and-multi-omics-/",
+   "source": "Nature Careers",
+   "institution": "University of British Columbia - Department of Medicine",
+   "country": "Kanada",
+   "deadline": "2026-11-07",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "genomics",
+    "multi-omics",
+    "artificial intelligence"
+   ],
+   "langs": [
+    "Python",
+    "R",
+    "Bioconductor"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "jan.lunemann@ubc.ca",
+    "sabina.riar@ubc.ca",
+    "workplace.accessibility@ubc.ca"
+   ],
+   "note": "Eşleşen: computational biology, genomics, multi-omics, artificial intelligence"
+  },
+  "nature-com-naturecareers-job-12866113-postdoctoral-research-associate-radiology": {
+   "id": "nature-com-naturecareers-job-12866113-postdoctoral-research-associate-radiology",
+   "title": "Postdoctoral Research Associate - Radiology",
+   "url": "https://www.nature.com/naturecareers/job/12866113/postdoctoral-research-associate-radiology/",
+   "source": "Nature Careers",
+   "institution": "s Research Hospital",
+   "country": "ABD",
+   "deadline": "2026-12-25",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "radiology"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: radiology"
+  },
+  "nature-com-naturecareers-job-12865826-postdoctoral-associate-cardiac-physiology-and-functional-genomics": {
+   "id": "nature-com-naturecareers-job-12865826-postdoctoral-associate-cardiac-physiology-and-functional-genomics",
+   "title": "Postdoctoral Associate | Cardiac Physiology and Functional Genomics",
+   "url": "https://www.nature.com/naturecareers/job/12865826/postdoctoral-associate-cardiac-physiology-and-functional-genomics/",
+   "source": "Nature Careers",
+   "institution": "The Jackson Laboratory",
+   "country": "ABD",
+   "deadline": "2026-11-17",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "genomics",
+    "multi-omics",
+    "omics"
+   ],
+   "langs": [
+    "JAX"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: genomics, multi-omics, omics"
+  },
+  "jobs-ac-uk-job-DTJ895-research-associate-in-ai-and-evidence-synthesis": {
+   "id": "jobs-ac-uk-job-DTJ895-research-associate-in-ai-and-evidence-synthesis",
+   "title": "Research Associate in AI and Evidence Synthesis",
+   "url": "https://www.jobs.ac.uk/job/DTJ895/research-associate-in-ai-and-evidence-synthesis",
+   "source": "jobs.ac.uk",
+   "institution": "s College London",
+   "country": "Birleşik Krallık",
+   "deadline": "2026-11-06",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "health data",
+    "artificial intelligence",
+    "ai"
+   ],
+   "langs": [
+    "Python"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: health data, artificial intelligence, ai"
+  },
+  "nature-com-naturecareers-job-12865476-postdoctoral-fellow-in-blood-cancer-genetics-and-genomics": {
+   "id": "nature-com-naturecareers-job-12865476-postdoctoral-fellow-in-blood-cancer-genetics-and-genomics",
+   "title": "Postdoctoral Fellow in Blood Cancer Genetics and Genomics",
+   "url": "https://www.nature.com/naturecareers/job/12865476/postdoctoral-fellow-in-blood-cancer-genetics-and-genomics/",
+   "source": "Nature Careers ABD",
+   "institution": "Albert Einstein College of Medicine (Bronx",
+   "country": "ABD",
+   "deadline": "2026-11-06",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "genomics",
+    "omics"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "satish.nandakumar@einsteinmed.edu"
+   ],
+   "note": "Eşleşen: computational biology, genomics, omics"
+  },
+  "turecareers-job-12865490-postdoctoral-research-associate-gene-regulation-single-cell-multi-omics-and-functional-genomics": {
+   "id": "turecareers-job-12865490-postdoctoral-research-associate-gene-regulation-single-cell-multi-omics-and-functional-genomics",
+   "title": "Postdoctoral Research Associate - Gene Regulation, Single-Cell Multi-omics, and Functional Genomics",
+   "url": "https://www.nature.com/naturecareers/job/12865490/postdoctoral-research-associate-gene-regulation-single-cell-multi-omics-and-functional-genomics/",
+   "source": "Nature Careers ABD",
+   "institution": "s Research Hospital",
+   "country": "ABD",
+   "deadline": "2026-12-06",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "Yong.Cheng@STJUDE.ORG"
+   ],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics"
+  },
+  "nature-com-naturecareers-job-12865059-postdoctoral-research-associate-geeleher-lab-dry-lab": {
+   "id": "nature-com-naturecareers-job-12865059-postdoctoral-research-associate-geeleher-lab-dry-lab",
+   "title": "Postdoctoral Research Associate - Geeleher Lab (dry lab)",
+   "url": "https://www.nature.com/naturecareers/job/12865059/postdoctoral-research-associate-geeleher-lab-dry-lab-/",
+   "source": "Nature Careers ABD",
+   "institution": "s Research Hospital",
+   "country": "ABD",
+   "deadline": "2026-11-24",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "genomics",
+    "omics",
+    "single-cell",
+    "ai"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: genomics, omics, single-cell, ai"
+  },
+  "nature-com-naturecareers-job-12865931-postdoctoral-research-associate-functional-and-system-metabolism": {
+   "id": "nature-com-naturecareers-job-12865931-postdoctoral-research-associate-functional-and-system-metabolism",
+   "title": "Postdoctoral Research Associate - Functional and System Metabolism",
+   "url": "https://www.nature.com/naturecareers/job/12865931/postdoctoral-research-associate-functional-and-system-metabolism/",
+   "source": "Nature Careers ABD",
+   "institution": "s Research Hospital",
+   "country": "ABD",
+   "deadline": "2026-12-19",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "jian.xu@stjude.org"
+   ],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics"
+  },
+  "nature-com-naturecareers-job-12864865-postdoctoral-fellow-on-gene-and-metabolism-targeting-therapeutics": {
+   "id": "nature-com-naturecareers-job-12864865-postdoctoral-fellow-on-gene-and-metabolism-targeting-therapeutics",
+   "title": "Postdoctoral Fellow on Gene- and Metabolism-Targeting Therapeutics",
+   "url": "https://www.nature.com/naturecareers/job/12864865/postdoctoral-fellow-on-gene-and-metabolism-targeting-therapeutics/",
+   "source": "Nature Careers ABD",
+   "institution": "s Research Hospital",
+   "country": "ABD",
+   "deadline": "2026-11-20",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "jian.xu@stjude.org"
+   ],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics, ai"
+  },
+  "nature-com-naturecareers-job-12865304-postdoctoral-research-fellow-computational-genomics-hovestadt-lab": {
+   "id": "nature-com-naturecareers-job-12865304-postdoctoral-research-fellow-computational-genomics-hovestadt-lab",
+   "title": "Postdoctoral Research Fellow - Computational Genomics, Hovestadt Lab",
+   "url": "https://www.nature.com/naturecareers/job/12865304/postdoctoral-research-fellow-computational-genomics-hovestadt-lab/",
+   "source": "Nature Careers ABD",
+   "institution": "Dana-Farber Cancer Institute (DFCI)",
+   "country": "ABD",
+   "deadline": "2026-12-01",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "genomics",
+    "omics"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "JamesA_McLean@dfci.harvard.edu"
+   ],
+   "note": "Eşleşen: computational biology, genomics, omics"
+  },
+  "nature-com-naturecareers-job-12865256-postdoctoral-scientist-walther-lab": {
+   "id": "nature-com-naturecareers-job-12865256-postdoctoral-scientist-walther-lab",
+   "title": "Postdoctoral Scientist - Walther Lab",
+   "url": "https://www.nature.com/naturecareers/job/12865256/postdoctoral-scientist-walther-lab/",
+   "source": "Nature Careers ABD",
+   "institution": "Howard Hughes Medical Institute (HHMI)",
+   "country": "ABD",
+   "deadline": "2026-11-30",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "biomedical"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: biomedical"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-UF6SP7NM2RDHAAYXH65NZKGHTATSKNL3": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-UF6SP7NM2RDHAAYXH65NZKGHTATSKNL3",
+   "title": "Postdoctoral contract at Instituto de Neurociencias (Alicante, Spain) - up to 2 years",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/UF6SP7NM2RDHAAYXH65NZKGHTATSKNL3/",
+   "source": "comp-neuro listesi",
+   "institution": "Postdoctoral contract at Instituto de Neurociencias (Alicante, Spain)",
+   "country": "İspanya",
+   "deadline": null,
+   "topic": "Nöro",
+   "relevance": 2,
+   "matched": [
+    "Python",
+    "MATLAB"
+   ],
+   "langs": [
+    "Python",
+    "MATLAB"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "emarcos@umh.es",
+    "comp-neuro@lists.cnsorg.org-UF6SP7NM2RDHAAYXH65NZKGHTATSKNL3.mbox.gz"
+   ],
+   "note": "Eşleşen: Python, MATLAB"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-3FV5P7PDX2UWDDU3YYRBUTAZYAT2KMPO": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-3FV5P7PDX2UWDDU3YYRBUTAZYAT2KMPO",
+   "title": "Computational Postdoctoral Position: Uncovering the Mathematics of Predictive Pursuit",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/3FV5P7PDX2UWDDU3YYRBUTAZYAT2KMPO/",
+   "source": "comp-neuro listesi",
+   "institution": "by jonathan.whitlock＠ntnu.no",
+   "country": "Norveç",
+   "deadline": null,
+   "topic": "Nöro",
+   "relevance": 3,
+   "matched": [
+    "computational neuroscience",
+    "systems neuroscience",
+    "machine learning"
+   ],
+   "langs": [
+    "Python",
+    "MATLAB"
+   ],
+   "foundAt": "2026-10-29",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "jonathan.whitlock@ntnu.no",
+    "natasha.cayco.gajic@ens.psl.eu",
+    "comp-neuro@lists.cnsorg.org-3FV5P7PDX2UWDDU3YYRBUTAZYAT2KMPO.mbox.gz"
+   ],
+   "note": "Eşleşen: computational neuroscience, systems neuroscience, machine learning"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-KWX2VN3YMBJPVLVWDYD3FEVEMCHYSTPB": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-KWX2VN3YMBJPVLVWDYD3FEVEMCHYSTPB",
+   "title": "postdoc or staff scientist",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/KWX2VN3YMBJPVLVWDYD3FEVEMCHYSTPB/",
+   "source": "comp-neuro listesi",
+   "institution": "",
+   "country": "",
+   "deadline": null,
+   "topic": "Nöro",
+   "relevance": 2,
+   "matched": [],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "note": ""
+  },
+  "quantiki-org-position-experimental-researcher-diamond-quantum-science": {
+   "id": "quantiki-org-position-experimental-researcher-diamond-quantum-science",
+   "title": "Experimental Researcher in Diamond Quantum Science",
+   "url": "https://www.quantiki.org/position/experimental-researcher-diamond-quantum-science",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "",
+   "deadline": "2026-11-30",
+   "topic": "Kuantum",
+   "relevance": 1,
+   "matched": [],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "note": ""
+  },
+  "quantiki-org-position-theory-hybrid-quantum-systems-1": {
+   "id": "quantiki-org-position-theory-hybrid-quantum-systems-1",
+   "title": "Theory of hybrid quantum systems",
+   "url": "https://www.quantiki.org/position/theory-hybrid-quantum-systems-1",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "",
+   "deadline": "2026-11-15",
+   "topic": "Kuantum",
+   "relevance": 1,
+   "matched": [],
+   "langs": [],
+   "foundAt": "2026-10-29",
+   "note": ""
   }
  },
- "lastRun": null,
- "log": [],
- "repo": ""
+ "lastRun": "2026-10-29T12:00:13.221Z",
+ "log": [
+  "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
+ ],
+ "repo": "SevdanurGENC/CENG-Postdoc-Radar",
+ "lastAdded": 56,
+ "lastStats": {
+  "pages": 90,
+  "ok": 61,
+  "fail": 29,
+  "failedSources": [
+   "AcademicPositions",
+   "Nature Careers",
+   "Science Careers",
+   "EURAXESS",
+   "Nature Careers ABD"
+  ],
+  "candidates": 64,
+  "added": 56,
+  "backfilled": 12,
+  "seconds": 39
+ }
 }
