@@ -42,8 +42,15 @@ HTTP = r'''async function httpGet(url, ms){
 }
 '''
 WALK = r'''function textChunks(el){
+  // komşu metin düğümlerini birleştir: linkedom "Children&#39;s" gibi yerlerde metni böler
   const out=[];
-  (function walk(n){ for(const c of n.childNodes||[]){ if(c.nodeType===3){ const t=String(c.nodeValue||"").replace(/\s+/g," ").trim(); if(t.length>1) out.push(t); } else if(c.nodeType===1){ const tg=(c.tagName||"").toLowerCase(); if(tg!=="script"&&tg!=="style"&&tg!=="noscript") walk(c); } } })(el);
+  (function walk(n){ let buf="";
+    const flush=()=>{ const t=buf.replace(/\s+/g," ").trim(); if(t.length>1) out.push(t); buf=""; };
+    for(const c of n.childNodes||[]){
+      if(c.nodeType===3){ buf+=String(c.nodeValue||""); }
+      else if(c.nodeType===1){ flush(); const tg=(c.tagName||"").toLowerCase(); if(tg!=="script"&&tg!=="style"&&tg!=="noscript") walk(c); }
+    }
+    flush(); })(el);
   return out;
 }
 '''
@@ -74,8 +81,25 @@ export function configure(cfg){
   });
   return settings;
 }
+// eski kayıtları yeni kurallarla onar: duyuruları sil, kurum/ülke/yıldızı düzelt
+export function repair(jobs){
+  let fixed=0, removed=0;
+  for(const [id,j] of Object.entries(jobs)){
+    if(isNonJob(j.title)){ delete jobs[id]; removed++; continue; }
+    const before=JSON.stringify([j.institution||"",j.country||"",j.relevance]);
+    const raw=String(j.institution||"");
+    let inst=cleanInstitution(raw, j.title) || institutionFromTitle(j.title);
+    if(raw && !inst) j.langsChecked=false;   // sayfayı yeniden okuyup kurumu bulmayı dene
+    j.institution=inst;
+    const c=detectCountry(inst); if(c && c!=="_non" && j.country && c!==j.country) j.country=c;
+    if((j.relevance||0)===3 && !titleHasKeyword(j.title)) j.relevance=2;
+    if(before!==JSON.stringify([j.institution||"",j.country||"",j.relevance])) fixed++;
+  }
+  return {fixed, removed};
+}
 export async function scan(jobs, opts={}){
   const started = Date.now(); const reqs = buildRequests();
+  const rep = repair(jobs); if(rep.fixed||rep.removed) console.log(`Onarım: ${rep.fixed} kayıt düzeltildi, ${rep.removed} duyuru silindi`);
   let ok=0, fail=0; const failed=[]; const candidates=[];
   const pages = await pool(reqs, opts.concurrency||4, async r => { const h = await httpGet(r.url, 25000); if(h){ ok++; return {r, h}; } fail++; failed.push(r.src); return null; });
   for(const p of pages){
@@ -85,7 +109,7 @@ export async function scan(jobs, opts={}){
       const id = slugId(f.href);
       if(jobs[id] || candidates.some(c=>c.id===id)) continue;
       const postdocish = POSTDOC_RE.test(f.title) || (p.r.src==="Quantiki") || (p.r.src==="Bernstein Network" && /post-?doc|postdoctoral/i.test(f.title+" "+f.cardText));
-      if(!postdocish) continue;
+      if(!postdocish || isNonJob(f.title)) continue;
       const cls = classify(f.title, f.cardText) || (p.r.topic ? {topic:p.r.topic, relevance: p.r.topic==="Nöro"?2:1, matched:[]} : null);
       if(!cls) continue;
       if(p.r.topic && cls.topic==="ML") cls.topic = p.r.topic;
@@ -123,7 +147,7 @@ export function prune(jobs, keepDaysAfterDeadline=14, keepDaysNoDeadline=120){
   }
   return removed;
 }
-export { TOPIC_LABEL, DEFAULT_SETTINGS, DEFAULT_KW, DEFAULT_SEARCH, DEFAULT_EXCLUDE, DEFAULT_LANGS, SOURCES, classify, detectLangs, findDeadline, parseDateFrom, detectCountry, extractFromListing, buildRequests, daysLeft, todayISO, pad };
+export { cleanInstitution, institutionFromTitle, isNonJob, titleHasKeyword, TOPIC_LABEL, DEFAULT_SETTINGS, DEFAULT_KW, DEFAULT_SEARCH, DEFAULT_EXCLUDE, DEFAULT_LANGS, SOURCES, classify, detectLangs, findDeadline, parseDateFrom, detectCountry, extractFromListing, buildRequests, daysLeft, todayISO, pad };
 '''
 open(dst, "w", encoding="utf-8").write(HEADER + consts + dset + "\n" + core + FOOTER)
 print("yazildi:", dst)

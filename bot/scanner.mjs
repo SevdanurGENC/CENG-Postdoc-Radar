@@ -98,7 +98,7 @@ const COUNTRY = [
  ["Lüksemburg",/\b(luxembourg)\b/gi],
  ["Polonya",/\b(poland|warsaw|kraków|krakow|gdańsk|gdansk|wrocław|wroclaw|poznań|poznan|gliwice)\b/gi],
  ["Çekya",/\b(czech|czechia|prague|praha|brno)\b/gi],
- ["Birleşik Krallık",/\b(united kingdom|england|scotland|wales|london|oxford|edinburgh|manchester|glasgow|bristol|birmingham|leeds|sheffield|nottingham|southampton|warwick|imperial college)\b/gi],
+ ["Birleşik Krallık",/\b(united kingdom|uk|england|scotland|wales|london|oxford|edinburgh|manchester|glasgow|bristol|leeds|sheffield|nottingham|southampton|warwick|imperial college)\b/gi],
  ["Yunanistan",/\b(greece|athens|thessaloniki|crete|heraklion|patras)\b/gi],
  ["Macaristan",/\b(hungary|budapest)\b/gi], ["Romanya",/\b(romania|bucharest|cluj)\b/gi], ["Slovenya",/\b(slovenia|ljubljana)\b/gi],
  ["Slovakya",/\b(slovakia|bratislava)\b/gi], ["Hırvatistan",/\b(croatia|zagreb)\b/gi], ["Estonya",/\b(estonia|tallinn|tartu)\b/gi],
@@ -114,11 +114,42 @@ function detectCountry(text){
   return best;
 }
 const INST_RE = /(universit|institut|college|school|centre|center|hospital|laborator|academy|polytechn|politecnico|hochschule|forschungszentrum|max planck|helmholtz|fraunhofer|inria|cnrs|\bcea\b|\bkth\b|\beth\b|epfl|karolinska|\bumc\b|medical cent|radboud|nikhef|amolf|\bcwi\b|simula|sintef|leibniz|embl|\bdtu\b|\bntnu\b|\bista\b|chalmers|aalto|empa|\bvib\b|imec|clinic|foundation|national lab|nih\b|argonne|los alamos|oak ridge|brookhaven)/i;
+// metin kurum adı gibi görünse de kurum olmayan parçalar (maaş, tarih, e-posta, "by ...")
+const BAD_INST_RE = /(salary|stipend|commensurate|per (year|annum|month)|€|\$|£|deadline|closing|apply|posted|full[- ]?time|part[- ]?time|guidelines|experience|@|＠|^by\s|https?:|\b20\d\d\b)/i;
+// iş ilanı olmayan duyurular (toplantı, ödül, okul...)
+const NONJOB_RE = /\b(meeting|award|prize|conference|workshop|summer school|winter school|symposium|seminar|webinar|lecture|newsletter|hackathon|call for papers)\b/i;
+function isNonJob(title){ return NONJOB_RE.test(title||"") && !/\b(position|positions|vacanc\w*|opening|openings|job)\b/i.test(title||""); }
+function cleanInstitution(inst, title){
+  let s = String(inst||"").replace(/\s+/g," ").trim();
+  if(!s) return "";
+  const m = s.match(/\bjob with (.+)$/i); if(m) s = m[1].trim();
+  const t = String(title||"").toLowerCase();
+  if(s.toLowerCase()===t || (t && s.length>20 && t.indexOf(s.toLowerCase())===0)) return "";
+  if(BAD_INST_RE.test(s)) return "";
+  if(/^[a-z]/.test(s)) return "";   // kesik parça, örn. "s Research Hospital"
+  if(s.split("(").length > s.split(")").length) s = s.split("(")[0].trim().replace(/[,\s]+$/,"");
+  return s;
+}
+function institutionFromTitle(title){
+  const t = String(title||"");
+  let m = t.match(/\(([^()]*(?:universit|institut|college|school|centre|center|hospital|laborator)[^()]*)\)/i);
+  if(m) return m[1].split(",")[0].trim();
+  m = t.match(/\s(?:at|@)\s+((?:the\s+)?[A-Z][^,()–|]{1,80}?)(?:\s*[,(–|].*|\s+-\s.*)?\.?$/);
+  if(m){ const c=m[1].trim().replace(/\.$/,""); if(INST_RE.test(c) || /^[A-Z]{2,}(\s|$)/.test(c)) return c; }
+  return "";
+}
 const ACR = {kth:"KTH",eth:"ETH",epfl:"EPFL",tu:"TU",ku:"KU",uia:"UiA",ntnu:"NTNU",dtu:"DTU",ucl:"UCL",mpi:"MPI",cnrs:"CNRS",umc:"UMC",ista:"ISTA",imt:"IMT",dife:"DIfE",igz:"IGZ",ccri:"CCRI",luke:"Luke",vib:"VIB",embl:"EMBL",uu:"UU",of:"of",and:"and",the:"the",de:"de",di:"di",for:"for",la:"la",der:"der",zu:"zu"};
 function prettySlug(sl){ return sl.split("-").filter(Boolean).map((w,i)=> ACR[w] && (i>0||ACR[w]===ACR[w].toUpperCase()) ? ACR[w] : w.charAt(0).toUpperCase()+w.slice(1)).join(" "); }
 function textChunks(el){
+  // komşu metin düğümlerini birleştir: linkedom "Children&#39;s" gibi yerlerde metni böler
   const out=[];
-  (function walk(n){ for(const c of n.childNodes||[]){ if(c.nodeType===3){ const t=String(c.nodeValue||"").replace(/\s+/g," ").trim(); if(t.length>1) out.push(t); } else if(c.nodeType===1){ const tg=(c.tagName||"").toLowerCase(); if(tg!=="script"&&tg!=="style"&&tg!=="noscript") walk(c); } } })(el);
+  (function walk(n){ let buf="";
+    const flush=()=>{ const t=buf.replace(/\s+/g," ").trim(); if(t.length>1) out.push(t); buf=""; };
+    for(const c of n.childNodes||[]){
+      if(c.nodeType===3){ buf+=String(c.nodeValue||""); }
+      else if(c.nodeType===1){ flush(); const tg=(c.tagName||"").toLowerCase(); if(tg!=="script"&&tg!=="style"&&tg!=="noscript") walk(c); }
+    }
+    flush(); })(el);
   return out;
 }
 // climb to the largest ancestor that still holds only this one posting link
@@ -152,6 +183,10 @@ function detectLangs(text){
   return out;
 }
 const POSTDOC_RE = /(post-?doc|postdoctoral|post-doctoral|research fellow|research associate|wissenschaftliche[rn]? mitarbeiter|onderzoeker|researcher\b)/i;
+function titleHasKeyword(title){
+  const t=String(title||"").toLowerCase(); const kws=compileKw();
+  return Object.values(kws).some(list=>list.some(k=>kwHit(t,k))) || CORE_TERMS.some(c=>t.indexOf(c)>=0);
+}
 function classify(title, extra){
   const text = (title+" "+(extra||"")).toLowerCase();
   const tl = title.toLowerCase();
@@ -170,6 +205,7 @@ function classify(title, extra){
   else if(topic!=="ML" || hits.ML.length>=1) rel=2;
   if(topic==="Kuantum" && /quantum (sensing|optics|memory|materials|gravity)/.test(text) && !anyML && !core) rel=1;
   if(topic==="Yazılım" && !hits.Yazılım.length && !anyML) rel=1;
+  if(rel===3 && !titleHasKeyword(title)) rel=2;   // başlıkta alan kelimesi yoksa ★★★ verme
   const matched = [].concat(hits[topic].slice(0,3), topic!=="ML"?hits.ML.slice(0,2):[]);
   if(!matched.length && langs.length) matched.push(...langs.slice(0,3));
   return {topic, relevance:rel, matched, langs};
@@ -203,7 +239,7 @@ function extractFromListing(html, req){
   doc.querySelectorAll("a[href]").forEach(a=>{
     let href; try{ href = new URL(a.getAttribute("href"), req.url).href.split("#")[0]; }catch(e){ return; }
     if(!/^https?:/.test(href) || !req.link.test(href)) return;
-    if(req.loose && /bernstein-network\.de\/(en\/)?(karriere|stellenangebote|$)/.test(href) && !/\.pdf/i.test(href)) return;
+    if(req.loose && /bernstein-network\.de\//.test(href) && !/\.pdf|stellenangebot\w*\/.+|jobposting|\/job\//i.test(href)) return;
     const title = (a.textContent||a.getAttribute("title")||"").replace(/\s+/g," ").trim();
     if(title.length<12 || title.length>220) return;
     if(/^(apply|read more|more|details|view|bewerben|lees meer)/i.test(title)) return;
@@ -218,9 +254,12 @@ function extractFromListing(html, req){
 function guessInstitution(f, req){
   let m = f.href.match(/academicpositions\.[a-z.]+\/ad\/([a-z0-9-]+)\//);
   if(m) return prettySlug(m[1]);
-  const c = (f.chunks||[]).find(x=>x.length<90 && INST_RE.test(x) && !POSTDOC_RE.test(x));
-  if(c){ const s=c.replace(/^(employer|organisation|organization|institution|werkgever)\s*:?\s*/i,""); const first=s.split(",")[0].trim(); return INST_RE.test(first) ? first : s; }
-  return "";
+  for(const c of (f.chunks||[]).filter(x=>x.length<90 && INST_RE.test(x) && !POSTDOC_RE.test(x))){
+    let s=c.replace(/^(employer|organisation|organization|institution|werkgever)\s*:?\s*/i,""); const first=s.split(",")[0].trim();
+    s = cleanInstitution(INST_RE.test(first) ? first : s, f.title);
+    if(s) return s;
+  }
+  return institutionFromTitle(f.title);
 }
 async function enrich(job){
   const html = await httpGet(job.url, 20000);
@@ -234,7 +273,7 @@ async function enrich(job){
         if(!o || !/JobPosting/i.test(String(o["@type"]))) return;
         if(!job.deadline && o.validThrough){ const v=String(o.validThrough).slice(0,10); if(/^\d{4}-\d\d-\d\d$/.test(v)) job.deadline=v; }
         const org = o.hiringOrganization && (o.hiringOrganization.name||o.hiringOrganization);
-        if(!job.institution && typeof org==="string") job.institution=org;
+        if(!job.institution && typeof org==="string") job.institution=cleanInstitution(org, job.title);
         const loc = [].concat(o.jobLocation||[])[0]; const cc = loc && loc.address && (loc.address.addressCountry && (loc.address.addressCountry.name||loc.address.addressCountry));
         if(cc && !job.country){ const c=detectCountry(String(cc)) || ({DE:"Almanya",NL:"Hollanda",SE:"İsveç",DK:"Danimarka",BE:"Belçika",FR:"Fransa",CH:"İsviçre",AT:"Avusturya",NO:"Norveç",FI:"Finlandiya",IT:"İtalya",ES:"İspanya",PT:"Portekiz",IE:"İrlanda",LU:"Lüksemburg",PL:"Polonya",CZ:"Çekya",GB:"Birleşik Krallık",UK:"Birleşik Krallık"})[String(cc).toUpperCase()]; if(c) job.country=c; }
         if(o.description && !job.desc) job.desc = String(o.description).replace(/<[^>]+>/g," ").slice(0,3000);
@@ -247,8 +286,8 @@ async function enrich(job){
   if(!job.country){ const c = detectCountry(body.slice(0,20000)); if(c) job.country=c; }
   if(!job.institution){
     const og = doc.querySelector('meta[property="og:site_name"]'); const tt = (doc.title||"");
-    const parts = tt.split(/\s[|–—-]\s/).map(x=>x.trim()).filter(x=>x && INST_RE.test(x) && x.length<90);
-    job.institution = parts[0] || (og && og.content) || "";
+    const parts = tt.split(/\s[|–—-]\s/).map(x=>x.trim().replace(/^.*\bjob with\s+/i,"")).filter(x=>x && INST_RE.test(x) && x.length<90);
+    job.institution = cleanInstitution(parts[0], job.title) || cleanInstitution(og && og.content, job.title) || institutionFromTitle(job.title);
   }
   if(!job.desc) job.desc = body.slice(0,3000);
   job.langs = Array.from(new Set((job.langs||[]).concat(detectLangs(job.title+" "+body.slice(0,40000)))));
@@ -271,8 +310,25 @@ export function configure(cfg){
   });
   return settings;
 }
+// eski kayıtları yeni kurallarla onar: duyuruları sil, kurum/ülke/yıldızı düzelt
+export function repair(jobs){
+  let fixed=0, removed=0;
+  for(const [id,j] of Object.entries(jobs)){
+    if(isNonJob(j.title)){ delete jobs[id]; removed++; continue; }
+    const before=JSON.stringify([j.institution||"",j.country||"",j.relevance]);
+    const raw=String(j.institution||"");
+    let inst=cleanInstitution(raw, j.title) || institutionFromTitle(j.title);
+    if(raw && !inst) j.langsChecked=false;   // sayfayı yeniden okuyup kurumu bulmayı dene
+    j.institution=inst;
+    const c=detectCountry(inst); if(c && c!=="_non" && j.country && c!==j.country) j.country=c;
+    if((j.relevance||0)===3 && !titleHasKeyword(j.title)) j.relevance=2;
+    if(before!==JSON.stringify([j.institution||"",j.country||"",j.relevance])) fixed++;
+  }
+  return {fixed, removed};
+}
 export async function scan(jobs, opts={}){
   const started = Date.now(); const reqs = buildRequests();
+  const rep = repair(jobs); if(rep.fixed||rep.removed) console.log(`Onarım: ${rep.fixed} kayıt düzeltildi, ${rep.removed} duyuru silindi`);
   let ok=0, fail=0; const failed=[]; const candidates=[];
   const pages = await pool(reqs, opts.concurrency||4, async r => { const h = await httpGet(r.url, 25000); if(h){ ok++; return {r, h}; } fail++; failed.push(r.src); return null; });
   for(const p of pages){
@@ -282,7 +338,7 @@ export async function scan(jobs, opts={}){
       const id = slugId(f.href);
       if(jobs[id] || candidates.some(c=>c.id===id)) continue;
       const postdocish = POSTDOC_RE.test(f.title) || (p.r.src==="Quantiki") || (p.r.src==="Bernstein Network" && /post-?doc|postdoctoral/i.test(f.title+" "+f.cardText));
-      if(!postdocish) continue;
+      if(!postdocish || isNonJob(f.title)) continue;
       const cls = classify(f.title, f.cardText) || (p.r.topic ? {topic:p.r.topic, relevance: p.r.topic==="Nöro"?2:1, matched:[]} : null);
       if(!cls) continue;
       if(p.r.topic && cls.topic==="ML") cls.topic = p.r.topic;
@@ -320,4 +376,4 @@ export function prune(jobs, keepDaysAfterDeadline=14, keepDaysNoDeadline=120){
   }
   return removed;
 }
-export { TOPIC_LABEL, DEFAULT_SETTINGS, DEFAULT_KW, DEFAULT_SEARCH, DEFAULT_EXCLUDE, DEFAULT_LANGS, SOURCES, classify, detectLangs, findDeadline, parseDateFrom, detectCountry, extractFromListing, buildRequests, daysLeft, todayISO, pad };
+export { cleanInstitution, institutionFromTitle, isNonJob, titleHasKeyword, TOPIC_LABEL, DEFAULT_SETTINGS, DEFAULT_KW, DEFAULT_SEARCH, DEFAULT_EXCLUDE, DEFAULT_LANGS, SOURCES, classify, detectLangs, findDeadline, parseDateFrom, detectCountry, extractFromListing, buildRequests, daysLeft, todayISO, pad };
