@@ -1765,30 +1765,112 @@
     "marco.dalai@unibs.it"
    ],
    "note": "Eşleşen: quantum information, quantum technologies"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-UTM5CTSIEGVOFER7VAPPWK4HFL32OXED": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-UTM5CTSIEGVOFER7VAPPWK4HFL32OXED",
+   "title": "Postdoc Position at Radboud University (Nijmegen) in NeuroAI: Biologically Grounded Neural Networks for Cognition",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/UTM5CTSIEGVOFER7VAPPWK4HFL32OXED/",
+   "source": "comp-neuro listesi",
+   "institution": "Radboud University",
+   "country": "Hollanda",
+   "deadline": null,
+   "topic": "Nöro",
+   "relevance": 3,
+   "matched": [
+    "neuroai",
+    "neuromorphic",
+    "deep learning",
+    "neural network"
+   ],
+   "langs": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "JAX"
+   ],
+   "foundAt": "2026-10-30",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "p.tiesinga@science.ru.nl",
+    "comp-neuro@lists.cnsorg.org-UTM5CTSIEGVOFER7VAPPWK4HFL32OXED.mbox.gz"
+   ],
+   "note": "Eşleşen: neuroai, neuromorphic, deep learning, neural network"
+  },
+  "nature-com-naturecareers-job-12866229-post-doctoral-research-fellow-biostatistics": {
+   "id": "nature-com-naturecareers-job-12866229-post-doctoral-research-fellow-biostatistics",
+   "title": "Post-Doctoral Research Fellow - Biostatistics",
+   "url": "https://www.nature.com/naturecareers/job/12866229/post-doctoral-research-fellow-biostatistics/",
+   "source": "Nature Careers",
+   "institution": "Fred Hutchinson Cancer Center",
+   "country": "ABD",
+   "deadline": "2026-12-29",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "genomics",
+    "omics",
+    "single-cell",
+    "machine learning",
+    "artificial intelligence"
+   ],
+   "langs": [
+    "Python"
+   ],
+   "foundAt": "2026-10-30",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: genomics, omics, single-cell, machine learning"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-FCRGV4MCD6R7GDLR6SQRV7EW7VZ324MD": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-FCRGV4MCD6R7GDLR6SQRV7EW7VZ324MD",
+   "title": "Postdoc Fellowships at WashU",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/FCRGV4MCD6R7GDLR6SQRV7EW7VZ324MD/",
+   "source": "comp-neuro listesi",
+   "institution": "",
+   "country": "",
+   "deadline": "2026-12-01",
+   "topic": "Nöro",
+   "relevance": 2,
+   "matched": [
+    "computational neuroscience",
+    "artificial intelligence"
+   ],
+   "langs": [],
+   "foundAt": "2026-10-30",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "g.goodhill@wustl.edu",
+    "comp-neuro@lists.cnsorg.org-FCRGV4MCD6R7GDLR6SQRV7EW7VZ324MD.mbox.gz"
+   ],
+   "note": "Eşleşen: computational neuroscience, artificial intelligence"
   }
  },
- "lastRun": "2026-10-29T21:03:50.950Z",
+ "lastRun": "2026-10-30T11:20:56.428Z",
  "log": [
+  "30/10 14:20  bot: 90 sayfa (59 açıldı, 31 açılmadı: AcademicPositions, AcademicTransfer, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 10 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "30/10 00:03  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, Nature Careers ABD, EURAXESS), 9 aday, 1 yeni ilan, 2 eski ilan okundu, 0 süresi geçmiş ilan silindi, 20 sn",
   "29/10 15:22  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD, Quantiki), 6 aday, 0 yeni ilan, 10 eski ilan okundu, 0 süresi geçmiş ilan silindi, 51 sn",
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 1,
+ "lastAdded": 3,
  "lastStats": {
   "pages": 90,
-  "ok": 61,
-  "fail": 29,
+  "ok": 59,
+  "fail": 31,
   "failedSources": [
    "AcademicPositions",
+   "AcademicTransfer",
    "Nature Careers",
    "Science Careers",
-   "Nature Careers ABD",
-   "EURAXESS"
+   "EURAXESS",
+   "Nature Careers ABD"
   ],
-  "candidates": 9,
-  "added": 1,
-  "backfilled": 2,
-  "seconds": 20
+  "candidates": 10,
+  "added": 3,
+  "backfilled": 0,
+  "seconds": 18
  }
 }
