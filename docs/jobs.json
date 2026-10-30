@@ -1847,30 +1847,31 @@
    "note": "Eşleşen: computational neuroscience, artificial intelligence"
   }
  },
- "lastRun": "2026-10-30T11:20:56.428Z",
+ "lastRun": "2026-10-30T20:42:42.696Z",
  "log": [
+  "30/10 23:42  bot: 90 sayfa (59 açıldı, 31 açılmadı: AcademicPositions, Nature Careers, CRA Career Center, Science Careers, EURAXESS, Nature Careers ABD), 7 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "30/10 14:20  bot: 90 sayfa (59 açıldı, 31 açılmadı: AcademicPositions, AcademicTransfer, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 10 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "30/10 00:03  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, Nature Careers ABD, EURAXESS), 9 aday, 1 yeni ilan, 2 eski ilan okundu, 0 süresi geçmiş ilan silindi, 20 sn",
   "29/10 15:22  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD, Quantiki), 6 aday, 0 yeni ilan, 10 eski ilan okundu, 0 süresi geçmiş ilan silindi, 51 sn",
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 3,
+ "lastAdded": 0,
  "lastStats": {
   "pages": 90,
   "ok": 59,
   "fail": 31,
   "failedSources": [
    "AcademicPositions",
-   "AcademicTransfer",
    "Nature Careers",
+   "CRA Career Center",
    "Science Careers",
    "EURAXESS",
    "Nature Careers ABD"
   ],
-  "candidates": 10,
-  "added": 3,
+  "candidates": 7,
+  "added": 0,
   "backfilled": 0,
-  "seconds": 18
+  "seconds": 16
  }
 }
