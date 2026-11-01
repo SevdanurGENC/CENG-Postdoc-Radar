@@ -1847,8 +1847,9 @@
    "note": "Eşleşen: computational neuroscience, artificial intelligence"
   }
  },
- "lastRun": "2026-11-01T11:48:12.784Z",
+ "lastRun": "2026-11-01T20:27:30.367Z",
  "log": [
+  "01/11 23:27  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 6 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "01/11 14:48  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 6 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
   "31/10 22:55  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 6 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "31/10 13:53  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 6 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 20 sn",
@@ -1874,6 +1875,6 @@
   "candidates": 6,
   "added": 0,
   "backfilled": 0,
-  "seconds": 21
+  "seconds": 16
  }
 }
