@@ -1868,8 +1868,9 @@
    "note": "Eşleşen: biomedical"
   }
  },
- "lastRun": "2026-11-02T13:26:12.543Z",
+ "lastRun": "2026-11-02T23:27:39.667Z",
  "log": [
+  "03/11 02:27  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, Nature Careers ABD, EURAXESS), 7 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "02/11 16:26  bot: 90 sayfa (59 açıldı, 31 açılmadı: AcademicPositions, AcademicTransfer, Nature Careers, Nature Careers ABD, Science Careers, EURAXESS), 8 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
   "01/11 23:27  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 6 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "01/11 14:48  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 6 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
@@ -1882,22 +1883,21 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 1,
+ "lastAdded": 0,
  "lastStats": {
   "pages": 90,
-  "ok": 59,
-  "fail": 31,
+  "ok": 61,
+  "fail": 29,
   "failedSources": [
    "AcademicPositions",
-   "AcademicTransfer",
    "Nature Careers",
-   "Nature Careers ABD",
    "Science Careers",
+   "Nature Careers ABD",
    "EURAXESS"
   ],
-  "candidates": 8,
-  "added": 1,
+  "candidates": 7,
+  "added": 0,
   "backfilled": 0,
-  "seconds": 21
+  "seconds": 14
  }
 }
