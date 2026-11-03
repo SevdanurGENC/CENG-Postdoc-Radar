@@ -1866,10 +1866,39 @@
     "bo.liang@emory.edu"
    ],
    "note": "Eşleşen: biomedical"
+  },
+  "nature-com-naturecareers-job-12866338-postdoctoral-research-associate-ai-for-medical-imaging-and-biomedical-informatics": {
+   "id": "nature-com-naturecareers-job-12866338-postdoctoral-research-associate-ai-for-medical-imaging-and-biomedical-informatics",
+   "title": "Postdoctoral Research Associate - AI for Medical Imaging & Biomedical Informatics",
+   "url": "https://www.nature.com/naturecareers/job/12866338/postdoctoral-research-associate-ai-for-medical-imaging-and-biomedical-informatics/",
+   "source": "Nature Careers",
+   "institution": "St Jude Children's Research Hospital",
+   "country": "ABD",
+   "deadline": "2027-01-02",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "biomedical",
+    "medical imaging",
+    "biomedical informatics",
+    "machine learning",
+    "deep learning"
+   ],
+   "langs": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Git"
+   ],
+   "foundAt": "2026-11-03",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: biomedical, medical imaging, biomedical informatics, machine learning"
   }
  },
- "lastRun": "2026-11-02T23:27:39.667Z",
+ "lastRun": "2026-11-03T12:44:30.571Z",
  "log": [
+  "03/11 15:44  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 8 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 20 sn",
   "03/11 02:27  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, Nature Careers ABD, EURAXESS), 7 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "02/11 16:26  bot: 90 sayfa (59 açıldı, 31 açılmadı: AcademicPositions, AcademicTransfer, Nature Careers, Nature Careers ABD, Science Careers, EURAXESS), 8 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
   "01/11 23:27  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 6 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
@@ -1883,7 +1912,7 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 0,
+ "lastAdded": 1,
  "lastStats": {
   "pages": 90,
   "ok": 61,
@@ -1892,12 +1921,12 @@
    "AcademicPositions",
    "Nature Careers",
    "Science Careers",
-   "Nature Careers ABD",
-   "EURAXESS"
+   "EURAXESS",
+   "Nature Careers ABD"
   ],
-  "candidates": 7,
-  "added": 0,
+  "candidates": 8,
+  "added": 1,
   "backfilled": 0,
-  "seconds": 14
+  "seconds": 20
  }
 }
