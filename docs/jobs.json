@@ -1894,10 +1894,32 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: biomedical, medical imaging, biomedical informatics, machine learning"
+  },
+  "careercenter-cra-org-job-post-doc-position-in-the-department-of-economics-bocconi-university-milano-lombardy-2571": {
+   "id": "careercenter-cra-org-job-post-doc-position-in-the-department-of-economics-bocconi-university-milano-lombardy-2571",
+   "title": "Post-doc Position in the Department of Economics - Bocconi University",
+   "url": "https://careercenter.cra.org/job/post-doc-position-in-the-department-of-economics-bocconi-university-milano-lombardy-2571",
+   "source": "CRA Career Center",
+   "institution": "Bocconi University",
+   "country": "İtalya",
+   "deadline": "2026-12-18",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "omics",
+    "artificial intelligence",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-04",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: omics, artificial intelligence, ai"
   }
  },
- "lastRun": "2026-11-03T12:44:30.571Z",
+ "lastRun": "2026-11-03T21:42:55.226Z",
  "log": [
+  "04/11 00:42  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 7 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
   "03/11 15:44  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 8 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 20 sn",
   "03/11 02:27  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, Nature Careers ABD, EURAXESS), 7 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "02/11 16:26  bot: 90 sayfa (59 açıldı, 31 açılmadı: AcademicPositions, AcademicTransfer, Nature Careers, Nature Careers ABD, Science Careers, EURAXESS), 8 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
@@ -1924,9 +1946,9 @@
    "EURAXESS",
    "Nature Careers ABD"
   ],
-  "candidates": 8,
+  "candidates": 7,
   "added": 1,
   "backfilled": 0,
-  "seconds": 20
+  "seconds": 21
  }
 }
