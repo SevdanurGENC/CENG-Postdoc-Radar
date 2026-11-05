@@ -1963,8 +1963,9 @@
    "note": "Eşleşen: bioinformatics, computational biology, genomics"
   }
  },
- "lastRun": "2026-11-05T13:06:50.654Z",
+ "lastRun": "2026-11-05T21:57:17.751Z",
  "log": [
+  "06/11 00:57  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 17 sn",
   "05/11 16:06  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "05/11 00:50  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Nature Careers ABD, Science Careers, EURAXESS), 6 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 28 sn",
   "04/11 15:56  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 6 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
@@ -1996,6 +1997,6 @@
   "candidates": 5,
   "added": 0,
   "backfilled": 0,
-  "seconds": 18
+  "seconds": 17
  }
 }
