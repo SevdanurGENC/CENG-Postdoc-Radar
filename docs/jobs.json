@@ -1963,8 +1963,9 @@
    "note": "Eşleşen: bioinformatics, computational biology, genomics"
   }
  },
- "lastRun": "2026-11-04T21:50:49.719Z",
+ "lastRun": "2026-11-05T13:06:50.654Z",
  "log": [
+  "05/11 16:06  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "05/11 00:50  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Nature Careers ABD, Science Careers, EURAXESS), 6 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 28 sn",
   "04/11 15:56  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 6 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
   "04/11 00:42  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 7 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
@@ -1982,21 +1983,19 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 1,
+ "lastAdded": 0,
  "lastStats": {
   "pages": 90,
-  "ok": 61,
-  "fail": 29,
+  "ok": 63,
+  "fail": 27,
   "failedSources": [
    "AcademicPositions",
-   "Nature Careers",
-   "Nature Careers ABD",
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 6,
-  "added": 1,
+  "candidates": 5,
+  "added": 0,
   "backfilled": 0,
-  "seconds": 28
+  "seconds": 18
  }
 }
