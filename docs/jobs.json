@@ -1961,10 +1961,92 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: bioinformatics, computational biology, genomics"
+  },
+  "-com-naturecareers-job-12866477-postdoctoral-position-in-mass-spectrometry-based-metabolomics-m-w-d-e13-tv-l-100-percent": {
+   "id": "-com-naturecareers-job-12866477-postdoctoral-position-in-mass-spectrometry-based-metabolomics-m-w-d-e13-tv-l-100-percent",
+   "title": "Postdoctoral Position in Mass Spectrometry-Based Metabolomics (m/w/d, E13 TV-L, 100%)",
+   "url": "https://www.nature.com/naturecareers/job/12866477/postdoctoral-position-in-mass-spectrometry-based-metabolomics-m-w-d-e13-tv-l-100-percent-/",
+   "source": "Nature Careers",
+   "institution": "Eberhard Karls Universität Tübingen",
+   "country": "Almanya",
+   "deadline": "2026-11-24",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "omics"
+   ],
+   "langs": [
+    "Python",
+    "R",
+    "MATLAB"
+   ],
+   "foundAt": "2026-11-06",
+   "langsChecked": true,
+   "emails": [
+    "hannes.link@uni-tuebingen.de"
+   ],
+   "note": "Eşleşen: omics"
+  },
+  "nature-com-naturecareers-job-12865175-2-postdoctoral-research-fellows": {
+   "id": "nature-com-naturecareers-job-12865175-2-postdoctoral-research-fellows",
+   "title": "2 Postdoctoral Research Fellows",
+   "url": "https://www.nature.com/naturecareers/job/12865175/2-postdoctoral-research-fellows-/",
+   "source": "Nature Careers ABD",
+   "institution": "Cleveland Clinic",
+   "country": "ABD",
+   "deadline": "2026-11-29",
+   "topic": "Kuantum",
+   "relevance": 2,
+   "matched": [
+    "genomics",
+    "multi-omics",
+    "omics",
+    "artificial intelligence"
+   ],
+   "langs": [
+    "Python",
+    "R",
+    "C++",
+    "Java"
+   ],
+   "foundAt": "2026-11-06",
+   "langsChecked": true,
+   "emails": [
+    "MARTINW3@ccf.org"
+   ],
+   "note": "Eşleşen: genomics, multi-omics, omics, artificial intelligence"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-TTVPWJUBURHZVNBRDRJQ7DK52I4BDXVU": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-TTVPWJUBURHZVNBRDRJQ7DK52I4BDXVU",
+   "title": "Postdoc & PhD student positions",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/TTVPWJUBURHZVNBRDRJQ7DK52I4BDXVU/",
+   "source": "comp-neuro listesi",
+   "institution": "",
+   "country": "Kanada",
+   "deadline": null,
+   "topic": "Nöro",
+   "relevance": 2,
+   "matched": [
+    "computational neuroscience",
+    "systems neuroscience",
+    "machine learning",
+    "data science"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-06",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "ralf.haefner@rochester.edu",
+    "gdeangelis@ur.rochester.edu",
+    "comp-neuro@lists.cnsorg.org-TTVPWJUBURHZVNBRDRJQ7DK52I4BDXVU.mbox.gz"
+   ],
+   "note": "Eşleşen: computational neuroscience, systems neuroscience, machine learning, data science"
   }
  },
- "lastRun": "2026-11-05T21:57:17.751Z",
+ "lastRun": "2026-11-06T12:53:51.532Z",
  "log": [
+  "06/11 15:53  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 7 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "06/11 00:57  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 17 sn",
   "05/11 16:06  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "05/11 00:50  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Nature Careers ABD, Science Careers, EURAXESS), 6 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 28 sn",
@@ -1984,7 +2066,7 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 0,
+ "lastAdded": 3,
  "lastStats": {
   "pages": 90,
   "ok": 63,
@@ -1994,9 +2076,9 @@
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 5,
-  "added": 0,
+  "candidates": 7,
+  "added": 3,
   "backfilled": 0,
-  "seconds": 17
+  "seconds": 16
  }
 }
