@@ -2042,10 +2042,31 @@
     "comp-neuro@lists.cnsorg.org-TTVPWJUBURHZVNBRDRJQ7DK52I4BDXVU.mbox.gz"
    ],
    "note": "Eşleşen: computational neuroscience, systems neuroscience, machine learning, data science"
+  },
+  "ure-com-naturecareers-job-12866497-post-doc-position-al-driven-robotic-experimentation-for-controlling-metal-degradation": {
+   "id": "ure-com-naturecareers-job-12866497-post-doc-position-al-driven-robotic-experimentation-for-controlling-metal-degradation",
+   "title": "Post-Doc position: Al-Driven Robotic Experimentation for Controlling Metal Degradation",
+   "url": "https://www.nature.com/naturecareers/job/12866497/post-doc-position-al-driven-robotic-experimentation-for-controlling-metal-degradation/",
+   "source": "Nature Careers",
+   "institution": "Helmholtz-Zentrum Hereon",
+   "country": "Almanya",
+   "deadline": "2026-12-04",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "biomedical",
+    "machine learning"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-07",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: biomedical, machine learning"
   }
  },
- "lastRun": "2026-11-06T12:53:51.532Z",
+ "lastRun": "2026-11-06T21:27:45.295Z",
  "log": [
+  "07/11 00:27  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 17 sn",
   "06/11 15:53  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 7 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "06/11 00:57  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 17 sn",
   "05/11 16:06  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
@@ -2066,7 +2087,7 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 3,
+ "lastAdded": 1,
  "lastStats": {
   "pages": 90,
   "ok": 63,
@@ -2076,9 +2097,9 @@
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 7,
-  "added": 3,
+  "candidates": 5,
+  "added": 1,
   "backfilled": 0,
-  "seconds": 16
+  "seconds": 17
  }
 }
