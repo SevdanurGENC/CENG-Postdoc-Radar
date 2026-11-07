@@ -2062,10 +2062,39 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: biomedical, machine learning"
+  },
+  "ecareers-job-12865407-postdoc-position-for-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology": {
+   "id": "ecareers-job-12865407-postdoc-position-for-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology",
+   "title": "Postdoc Position for Computational Genomics, AI Precision Oncology, Cancer Biology and Immunobiology",
+   "url": "https://www.nature.com/naturecareers/job/12865407/postdoc-position-for-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology/",
+   "source": "Nature Careers",
+   "institution": "University of Pittsburgh",
+   "country": "ABD",
+   "deadline": "2026-12-05",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "genomics",
+    "omics",
+    "pathology",
+    "machine learning",
+    "ai"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-11-07",
+   "langsChecked": true,
+   "emails": [
+    "wangxrecruit@gmail.com"
+   ],
+   "note": "Eşleşen: genomics, omics, pathology, machine learning"
   }
  },
- "lastRun": "2026-11-06T21:27:45.295Z",
+ "lastRun": "2026-11-07T11:40:41.616Z",
  "log": [
+  "07/11 14:40  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
   "07/11 00:27  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 17 sn",
   "06/11 15:53  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 7 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "06/11 00:57  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 17 sn",
@@ -2100,6 +2129,6 @@
   "candidates": 5,
   "added": 1,
   "backfilled": 0,
-  "seconds": 17
+  "seconds": 15
  }
 }
