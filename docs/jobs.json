@@ -2090,10 +2090,31 @@
     "wangxrecruit@gmail.com"
    ],
    "note": "Eşleşen: genomics, omics, pathology, machine learning"
+  },
+  "quantiki-org-position-postdoctoral-fellow-theoretical-amocondensed-matter-physics": {
+   "id": "quantiki-org-position-postdoctoral-fellow-theoretical-amocondensed-matter-physics",
+   "title": "POSTDOCTORAL FELLOW-THEORETICAL AMO/CONDENSED MATTER PHYSICS",
+   "url": "https://www.quantiki.org/position/postdoctoral-fellow-theoretical-amocondensed-matter-physics",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "",
+   "deadline": "2026-12-01",
+   "topic": "Kuantum",
+   "relevance": 1,
+   "matched": [
+    "quantum information",
+    "quantum technologies"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-07",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: quantum information, quantum technologies"
   }
  },
- "lastRun": "2026-11-07T11:40:41.616Z",
+ "lastRun": "2026-11-07T20:11:02.867Z",
  "log": [
+  "07/11 23:11  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "07/11 14:40  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
   "07/11 00:27  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 17 sn",
   "06/11 15:53  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 7 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
@@ -2129,6 +2150,6 @@
   "candidates": 5,
   "added": 1,
   "backfilled": 0,
-  "seconds": 15
+  "seconds": 16
  }
 }
