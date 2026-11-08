@@ -2112,8 +2112,9 @@
    "note": "Eşleşen: quantum information, quantum technologies"
   }
  },
- "lastRun": "2026-11-07T20:11:02.867Z",
+ "lastRun": "2026-11-08T11:53:49.595Z",
  "log": [
+  "08/11 14:53  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 12 sn",
   "07/11 23:11  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "07/11 14:40  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
   "07/11 00:27  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 17 sn",
@@ -2137,7 +2138,7 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 1,
+ "lastAdded": 0,
  "lastStats": {
   "pages": 90,
   "ok": 63,
@@ -2147,9 +2148,9 @@
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 5,
-  "added": 1,
+  "candidates": 4,
+  "added": 0,
   "backfilled": 0,
-  "seconds": 16
+  "seconds": 12
  }
 }
