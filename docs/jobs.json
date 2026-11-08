@@ -2112,8 +2112,9 @@
    "note": "Eşleşen: quantum information, quantum technologies"
   }
  },
- "lastRun": "2026-11-08T11:53:49.595Z",
+ "lastRun": "2026-11-08T20:25:38.162Z",
  "log": [
+  "08/11 23:25  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 40 sn",
   "08/11 14:53  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 12 sn",
   "07/11 23:11  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "07/11 14:40  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
@@ -2151,6 +2152,6 @@
   "candidates": 4,
   "added": 0,
   "backfilled": 0,
-  "seconds": 12
+  "seconds": 40
  }
 }
