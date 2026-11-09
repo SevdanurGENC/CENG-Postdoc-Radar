@@ -2110,10 +2110,32 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: quantum information, quantum technologies"
+  },
+  "nature-com-naturecareers-job-12866572-postdoctoral-fellow-in-quantum-algorithms-and-quantum-software": {
+   "id": "nature-com-naturecareers-job-12866572-postdoctoral-fellow-in-quantum-algorithms-and-quantum-software",
+   "title": "Postdoctoral Fellow in Quantum Algorithms and Quantum Software",
+   "url": "https://www.nature.com/naturecareers/job/12866572/postdoctoral-fellow-in-quantum-algorithms-and-quantum-software/",
+   "source": "Nature Careers",
+   "institution": "University of Southern Denmark (SDU)",
+   "country": "Danimarka",
+   "deadline": "2027-01-03",
+   "topic": "Kuantum",
+   "relevance": 3,
+   "matched": [
+    "quantum computing",
+    "quantum algorithm",
+    "quantum software"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-09",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: quantum computing, quantum algorithm, quantum software"
   }
  },
- "lastRun": "2026-11-08T20:25:38.162Z",
+ "lastRun": "2026-11-09T13:49:28.566Z",
  "log": [
+  "09/11 16:49  bot: 90 sayfa (62 açıldı, 28 açılmadı: AcademicPositions, AcademicTransfer, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "08/11 23:25  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 40 sn",
   "08/11 14:53  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 12 sn",
   "07/11 23:11  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
@@ -2139,19 +2161,20 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 0,
+ "lastAdded": 1,
  "lastStats": {
   "pages": 90,
-  "ok": 63,
-  "fail": 27,
+  "ok": 62,
+  "fail": 28,
   "failedSources": [
    "AcademicPositions",
+   "AcademicTransfer",
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 4,
-  "added": 0,
+  "candidates": 5,
+  "added": 1,
   "backfilled": 0,
-  "seconds": 40
+  "seconds": 18
  }
 }
