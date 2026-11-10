@@ -293,19 +293,6 @@
    "note": "Geniş kapsamlı çağrı, sağlıkta ML projeleri olabilir.",
    "foundAt": "2026-10-24"
   },
-  "academicpositions-com-ad-ku-leuven-2026-postdoctoral-researcher-in-natural-language-processing-253755": {
-   "id": "academicpositions-com-ad-ku-leuven-2026-postdoctoral-researcher-in-natural-language-processing-253755",
-   "title": "Postdoctoral Researcher in Natural Language Processing",
-   "institution": "KU Leuven",
-   "country": "Belçika",
-   "deadline": "2026-10-27",
-   "url": "https://academicpositions.com/ad/ku-leuven/2026/postdoctoral-researcher-in-natural-language-processing/253755",
-   "source": "AcademicPositions",
-   "topic": "ML",
-   "relevance": 2,
-   "note": "Doğal dil işleme. Son tarih birkaç gün içinde.",
-   "foundAt": "2026-10-24"
-  },
   "academicpositions-com-ad-kth-royal-institute-of-technology-2026-postdoc-in-large-language-model-inferencing-253294": {
    "id": "academicpositions-com-ad-kth-royal-institute-of-technology-2026-postdoc-in-large-language-model-inferencing-253294",
    "title": "Postdoc in Large Language Model inferencing",
@@ -2224,8 +2211,9 @@
    "note": "Eşleşen: omics"
   }
  },
- "lastRun": "2026-11-10T13:25:30.057Z",
+ "lastRun": "2026-11-10T21:47:00.060Z",
  "log": [
+  "11/11 00:47  bot: 90 sayfa (72 açıldı, 18 açılmadı: AcademicPositions, Quantiki, Science Careers, EURAXESS), 3 aday, 0 yeni ilan, 0 eski ilan okundu, 1 süresi geçmiş ilan silindi, 18 sn",
   "10/11 16:25  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 7 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 19 sn",
   "10/11 03:12  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 6 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "09/11 16:49  bot: 90 sayfa (62 açıldı, 28 açılmadı: AcademicPositions, AcademicTransfer, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
@@ -2254,19 +2242,20 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 2,
+ "lastAdded": 0,
  "lastStats": {
   "pages": 90,
-  "ok": 73,
-  "fail": 17,
+  "ok": 72,
+  "fail": 18,
   "failedSources": [
    "AcademicPositions",
+   "Quantiki",
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 7,
-  "added": 2,
+  "candidates": 3,
+  "added": 0,
   "backfilled": 0,
-  "seconds": 19
+  "seconds": 18
  }
 }
