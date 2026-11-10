@@ -2131,10 +2131,58 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: quantum computing, quantum algorithm, quantum software"
+  },
+  "euraxess-ec-europa-eu-jobs-478986": {
+   "id": "euraxess-ec-europa-eu-jobs-478986",
+   "title": "Post-doctoral Researcher on SiGe-based cryogenic amplifiers for quantum computing",
+   "url": "https://euraxess.ec.europa.eu/jobs/478986",
+   "source": "EURAXESS",
+   "institution": "EURAXESS",
+   "country": "İspanya",
+   "deadline": "2026-12-04",
+   "topic": "Kuantum",
+   "relevance": 2,
+   "matched": [
+    "quantum computing",
+    "qubit"
+   ],
+   "langs": [
+    "Python"
+   ],
+   "foundAt": "2026-11-10",
+   "langsChecked": true,
+   "emails": [
+    "f.gonzalez@nanogune.eu",
+    "nano@nanogune.eu"
+   ],
+   "note": "Eşleşen: quantum computing, qubit"
+  },
+  "euraxess-ec-europa-eu-jobs-478984": {
+   "id": "euraxess-ec-europa-eu-jobs-478984",
+   "title": "Postdoc at CBS in work-life balance policy: citizens, policies and firms",
+   "url": "https://euraxess.ec.europa.eu/jobs/478984",
+   "source": "EURAXESS",
+   "institution": "Copenhagen Business School",
+   "country": "Danimarka",
+   "deadline": "2026-12-07",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "omics"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-10",
+   "langsChecked": true,
+   "emails": [
+    "jg.egb@cbs.dk",
+    "cdlp.egb@cbs.dk"
+   ],
+   "note": "Eşleşen: omics"
   }
  },
- "lastRun": "2026-11-09T13:49:28.566Z",
+ "lastRun": "2026-11-10T00:12:43.627Z",
  "log": [
+  "10/11 03:12  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 6 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "09/11 16:49  bot: 90 sayfa (62 açıldı, 28 açılmadı: AcademicPositions, AcademicTransfer, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "08/11 23:25  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 40 sn",
   "08/11 14:53  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 12 sn",
@@ -2161,20 +2209,19 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 1,
+ "lastAdded": 2,
  "lastStats": {
   "pages": 90,
-  "ok": 62,
-  "fail": 28,
+  "ok": 73,
+  "fail": 17,
   "failedSources": [
    "AcademicPositions",
-   "AcademicTransfer",
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 5,
-  "added": 1,
+  "candidates": 6,
+  "added": 2,
   "backfilled": 0,
-  "seconds": 18
+  "seconds": 14
  }
 }
