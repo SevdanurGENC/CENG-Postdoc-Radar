@@ -2178,10 +2178,55 @@
     "cdlp.egb@cbs.dk"
    ],
    "note": "Eşleşen: omics"
+  },
+  "nature-com-naturecareers-job-12866611-postdoc-in-computational-genomics": {
+   "id": "nature-com-naturecareers-job-12866611-postdoc-in-computational-genomics",
+   "title": "Postdoc in Computational Genomics",
+   "url": "https://www.nature.com/naturecareers/job/12866611/postdoc-in-computational-genomics/",
+   "source": "Nature Careers",
+   "institution": "Aarhus University (AU)",
+   "country": "Danimarka",
+   "deadline": "2026-12-01",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics",
+    "machine learning",
+    "deep learning"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-10",
+   "langsChecked": true,
+   "emails": [
+    "smkale@agro.au.dk"
+   ],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics, machine learning"
+  },
+  "euraxess-ec-europa-eu-jobs-479124": {
+   "id": "euraxess-ec-europa-eu-jobs-479124",
+   "title": "TOGAS Postdoctoral position",
+   "url": "https://euraxess.ec.europa.eu/jobs/479124",
+   "source": "EURAXESS",
+   "institution": "University of Antwerp",
+   "country": "Belçika",
+   "deadline": "2027-02-08",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "omics"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-10",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: omics"
   }
  },
- "lastRun": "2026-11-10T00:12:43.627Z",
+ "lastRun": "2026-11-10T13:25:30.057Z",
  "log": [
+  "10/11 16:25  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 7 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 19 sn",
   "10/11 03:12  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 6 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "09/11 16:49  bot: 90 sayfa (62 açıldı, 28 açılmadı: AcademicPositions, AcademicTransfer, Science Careers, EURAXESS), 5 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "08/11 23:25  bot: 90 sayfa (63 açıldı, 27 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 40 sn",
@@ -2219,9 +2264,9 @@
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 6,
+  "candidates": 7,
   "added": 2,
   "backfilled": 0,
-  "seconds": 14
+  "seconds": 19
  }
 }
