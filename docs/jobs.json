@@ -2325,10 +2325,104 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: quantum information, quantum technologies"
+  },
+  "quantiki-org-position-postdoctoral-position-intelligent-computing-architectures-focusing-hardware-aware-quantum": {
+   "id": "quantiki-org-position-postdoctoral-position-intelligent-computing-architectures-focusing-hardware-aware-quantum",
+   "title": "Postdoctoral Position in Intelligent Computing Architectures, focusing on Hardware-Aware Quantum Machine Learning, at the University of Southern Denmark",
+   "url": "https://www.quantiki.org/position/postdoctoral-position-intelligent-computing-architectures-focusing-hardware-aware-quantum",
+   "source": "Quantiki",
+   "institution": "the University of Southern Denmark",
+   "country": "Danimarka",
+   "deadline": "2026-12-15",
+   "topic": "Kuantum",
+   "relevance": 3,
+   "matched": [
+    "quantum machine learning",
+    "quantum information",
+    "quantum programming",
+    "machine learning"
+   ],
+   "langs": [
+    "Qiskit",
+    "PennyLane"
+   ],
+   "foundAt": "2026-11-12",
+   "langsChecked": true,
+   "emails": [
+    "chisio@sdu.dk",
+    "moradi@sdu.dk"
+   ],
+   "note": "Eşleşen: quantum machine learning, quantum information, quantum programming, machine learning"
+  },
+  "euraxess-ec-europa-eu-jobs-479631": {
+   "id": "euraxess-ec-europa-eu-jobs-479631",
+   "title": "Research Associate – Quantifying the Effects of Polar Climate Change, 1 FTE, J.E. Cairnes School of Business and Economics, Univesity of Galway012036",
+   "url": "https://euraxess.ec.europa.eu/jobs/479631",
+   "source": "EURAXESS",
+   "institution": "University of Galway",
+   "country": "İrlanda",
+   "deadline": "2026-11-25",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "omics"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-12",
+   "langsChecked": true,
+   "emails": [
+    "recruit@universityofgalway.ie"
+   ],
+   "note": "Eşleşen: omics"
+  },
+  "quantiki-org-position-2-years-postdoctoral-researcher-position-development-chiral-single-photon-sources-and": {
+   "id": "quantiki-org-position-2-years-postdoctoral-researcher-position-development-chiral-single-photon-sources-and",
+   "title": "2-years postdoctoral researcher position on development of chiral single-photon sources and integrated quantum-photonic chips",
+   "url": "https://www.quantiki.org/position/2-years-postdoctoral-researcher-position-development-chiral-single-photon-sources-and",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "",
+   "deadline": "2026-11-30",
+   "topic": "Kuantum",
+   "relevance": 1,
+   "matched": [
+    "quantum information",
+    "quantum technologies"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-12",
+   "langsChecked": true,
+   "emails": [
+    "jobs.cfm@ehu.eus"
+   ],
+   "note": "Eşleşen: quantum information, quantum technologies"
+  },
+  "quantiki-org-position-chiral-single-photon-sources-and-integrated-quantum-photonic-chips": {
+   "id": "quantiki-org-position-chiral-single-photon-sources-and-integrated-quantum-photonic-chips",
+   "title": "Chiral single-photon sources and integrated quantum-photonic chips",
+   "url": "https://www.quantiki.org/position/chiral-single-photon-sources-and-integrated-quantum-photonic-chips",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "",
+   "deadline": "2026-11-30",
+   "topic": "Kuantum",
+   "relevance": 1,
+   "matched": [
+    "quantum information",
+    "quantum technologies"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-12",
+   "langsChecked": true,
+   "emails": [
+    "jobs.cfm@ehu.eus"
+   ],
+   "note": "Eşleşen: quantum information, quantum technologies"
   }
  },
- "lastRun": "2026-11-11T12:39:57.213Z",
+ "lastRun": "2026-11-11T22:39:13.257Z",
  "log": [
+  "12/11 01:39  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 7 aday, 4 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 17 sn",
   "11/11 15:39  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 9 aday, 5 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
   "11/11 00:47  bot: 90 sayfa (72 açıldı, 18 açılmadı: AcademicPositions, Quantiki, Science Careers, EURAXESS), 3 aday, 0 yeni ilan, 0 eski ilan okundu, 1 süresi geçmiş ilan silindi, 18 sn",
   "10/11 16:25  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 7 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 19 sn",
@@ -2359,7 +2453,7 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 5,
+ "lastAdded": 4,
  "lastStats": {
   "pages": 90,
   "ok": 73,
@@ -2369,9 +2463,9 @@
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 9,
-  "added": 5,
+  "candidates": 7,
+  "added": 4,
   "backfilled": 0,
-  "seconds": 15
+  "seconds": 17
  }
 }
