@@ -52,22 +52,6 @@
     "jean-daniel.bancal@ipht.fr"
    ]
   },
-  "nextcloud-tuebingen-mpg-de-index-php-s-wjKjAHRidF5R4M8-opendetails": {
-   "id": "nextcloud-tuebingen-mpg-de-index-php-s-wjKjAHRidF5R4M8-opendetails",
-   "title": "Postdoc in Computational Neuroscience / NeuroAI",
-   "institution": "Max Planck Institute for Biological Cybernetics",
-   "country": "Almanya",
-   "deadline": "2026-10-30",
-   "url": "https://nextcloud.tuebingen.mpg.de/index.php/s/wjKjAHRidF5R4M8?opendetails=",
-   "source": "Bernstein Network",
-   "topic": "Nöro",
-   "relevance": 3,
-   "note": "NeuroAI tam senin yeni ilgi alanın. Son tarih çok yakın.",
-   "foundAt": "2026-10-24",
-   "langs": [],
-   "langsChecked": true,
-   "emails": []
-  },
   "bernstein-network-de-wp-content-uploads-2026-08-260817-Stellenangebot-Postdoc-Grosse-Wentrup-pdf": {
    "id": "bernstein-network-de-wp-content-uploads-2026-08-260817-Stellenangebot-Postdoc-Grosse-Wentrup-pdf",
    "title": "Postdoc Openings in Cognitive Computational Neuroscience and Brain-AI Interfacing",
@@ -143,24 +127,6 @@
    "emails": [
     "30994e0_f6xu0zrien_1-0@jobs.ruhr-uni-bochum.de",
     "wpr@rub.de"
-   ]
-  },
-  "bernstein-network-de-wp-content-uploads-2026-10-261002-Stellenangebot-Postdoc-Cayco-Gajic-pdf": {
-   "id": "bernstein-network-de-wp-content-uploads-2026-10-261002-Stellenangebot-Postdoc-Cayco-Gajic-pdf",
-   "title": "Computational Post-Doc: Mathematics of Predictive Pursuit",
-   "institution": "NTNU – Kavli Institute for Systems Neuroscience",
-   "country": "Norveç",
-   "deadline": "2026-10-30",
-   "url": "https://bernstein-network.de/wp-content/uploads/2026/10/261002_Stellenangebot_Postdoc_Cayco-Gajic.pdf",
-   "source": "Bernstein Network",
-   "topic": "Nöro",
-   "relevance": 2,
-   "note": "Matematiksel nörobilim. Son tarih çok yakın.",
-   "foundAt": "2026-10-24",
-   "langs": [],
-   "langsChecked": true,
-   "emails": [
-    "elenareimar@gmail.com"
    ]
   },
   "academictransfer-com-en-jobs-364972-postdoctoral-research-fellow-computational-neurophysiology-of-human-motivation": {
@@ -252,19 +218,6 @@
    "topic": "Biyo",
    "relevance": 3,
    "note": "Biyomedikal yapay zekâ, Tıp Fakültesi deneyimin artı.",
-   "foundAt": "2026-10-24"
-  },
-  "positions-com-ad-karolinska-institutet-2026-1-2-postdoctoral-researchers-in-psychiatric-genomics-and-data-science-253706": {
-   "id": "positions-com-ad-karolinska-institutet-2026-1-2-postdoctoral-researchers-in-psychiatric-genomics-and-data-science-253706",
-   "title": "1-2 Postdoctoral researchers in Psychiatric Genomics and Data Science",
-   "institution": "Karolinska Institutet",
-   "country": "İsveç",
-   "deadline": "2026-10-30",
-   "url": "https://academicpositions.com/ad/karolinska-institutet/2026/1-2-postdoctoral-researchers-in-psychiatric-genomics-and-data-science/253706",
-   "source": "AcademicPositions",
-   "topic": "Biyo",
-   "relevance": 2,
-   "note": "Genomik ve veri bilimi. Son tarih çok yakın.",
    "foundAt": "2026-10-24"
   },
   "ons-com-ad-german-institute-of-human-nutrition-dife-2026-postdoc-m-f-div-computational-biologist-bioinformatician-254197": {
@@ -2574,10 +2527,55 @@
     "applications@wmi.badw.de"
    ],
    "note": "Eşleşen: quantum computing, quantum computer, qubit"
+  },
+  "euraxess-ec-europa-eu-jobs-480407": {
+   "id": "euraxess-ec-europa-eu-jobs-480407",
+   "title": "Predoctoral Researcher (FPI) - J.Selent (FIMIM3348-SELENT)",
+   "url": "https://euraxess.ec.europa.eu/jobs/480407",
+   "source": "EURAXESS",
+   "institution": "Hospital del Mar Research Institute",
+   "country": "İspanya",
+   "deadline": "2026-11-15",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "bioinformatics",
+    "biomedical"
+   ],
+   "langs": [
+    "Python"
+   ],
+   "foundAt": "2026-11-14",
+   "langsChecked": true,
+   "emails": [
+    "people@researchmar.net"
+   ],
+   "note": "Eşleşen: bioinformatics, biomedical"
+  },
+  "quantiki-org-position-research-fellows-quantum-many-body-physics": {
+   "id": "quantiki-org-position-research-fellows-quantum-many-body-physics",
+   "title": "Research Fellows in Quantum Many-Body Physics",
+   "url": "https://www.quantiki.org/position/research-fellows-quantum-many-body-physics",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "Birleşik Krallık",
+   "deadline": "2027-01-04",
+   "topic": "Kuantum",
+   "relevance": 2,
+   "matched": [
+    "quantum information",
+    "quantum technologies"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-14",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: quantum information, quantum technologies"
   }
  },
- "lastRun": "2026-11-13T13:01:03.634Z",
+ "lastRun": "2026-11-13T21:56:33.135Z",
  "log": [
+  "14/11 00:56  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 17 sn",
   "13/11 16:01  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
   "13/11 01:13  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
   "12/11 16:42  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
@@ -2625,6 +2623,6 @@
   "candidates": 4,
   "added": 2,
   "backfilled": 0,
-  "seconds": 15
+  "seconds": 17
  }
 }
