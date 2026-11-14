@@ -2571,10 +2571,36 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: quantum information, quantum technologies"
+  },
+  "nature-com-naturecareers-job-12866799-postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics": {
+   "id": "nature-com-naturecareers-job-12866799-postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics",
+   "title": "Postdoctoral Associate - Cancer Bioinformatics, Biostatistics, and Multi-Omics",
+   "url": "https://www.nature.com/naturecareers/job/12866799/postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics/",
+   "source": "Nature Careers",
+   "institution": "Baylor College of Medicine (BCM)",
+   "country": "ABD",
+   "deadline": "2027-01-13",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics"
+   ],
+   "langs": [
+    "Python",
+    "R",
+    "Linux"
+   ],
+   "foundAt": "2026-11-14",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics"
   }
  },
- "lastRun": "2026-11-13T21:56:33.135Z",
+ "lastRun": "2026-11-14T12:06:19.977Z",
  "log": [
+  "14/11 15:06  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
   "14/11 00:56  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 17 sn",
   "13/11 16:01  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
   "13/11 01:13  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
@@ -2610,7 +2636,7 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 2,
+ "lastAdded": 1,
  "lastStats": {
   "pages": 90,
   "ok": 73,
@@ -2620,9 +2646,9 @@
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 4,
-  "added": 2,
+  "candidates": 3,
+  "added": 1,
   "backfilled": 0,
-  "seconds": 17
+  "seconds": 15
  }
 }
