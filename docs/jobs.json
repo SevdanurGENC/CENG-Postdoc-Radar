@@ -827,32 +827,6 @@
    ],
    "note": "Eşleşen: bioinformatics, computational biology, systems biology, machine learning"
   },
-  "com-naturecareers-job-12862383-postdoctoral-associate-research-scientist-in-systems-neuroscience-and-or-neuroengineering": {
-   "id": "com-naturecareers-job-12862383-postdoctoral-associate-research-scientist-in-systems-neuroscience-and-or-neuroengineering",
-   "title": "Postdoctoral Associate / Research Scientist in Systems Neuroscience and/or Neuroengineering",
-   "url": "https://www.nature.com/naturecareers/job/12862383/postdoctoral-associate-research-scientist-in-systems-neuroscience-and-or-neuroengineering/",
-   "source": "Nature Careers",
-   "institution": "University of Pittsburgh",
-   "country": "ABD",
-   "deadline": "2026-11-03",
-   "topic": "Nöro",
-   "relevance": 3,
-   "matched": [
-    "systems neuroscience",
-    "machine learning",
-    "data science"
-   ],
-   "langs": [
-    "Python",
-    "MATLAB"
-   ],
-   "foundAt": "2026-10-29",
-   "langsChecked": true,
-   "emails": [
-    "hes100@pitt.edu"
-   ],
-   "note": "Eşleşen: systems neuroscience, machine learning, data science"
-  },
   "m-naturecareers-job-12865863-postdoctoral-fellowship-in-ai-advanced-materials-and-planetary-health-at-bidmap-uc-berkeley": {
    "id": "m-naturecareers-job-12865863-postdoctoral-fellowship-in-ai-advanced-materials-and-planetary-health-at-bidmap-uc-berkeley",
    "title": "Postdoctoral Fellowship in AI, Advanced Materials, and Planetary Health At BIDMaP, UC Berkeley",
@@ -895,33 +869,6 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: computational biology, drug discovery, machine learning, artificial intelligence"
-  },
-  "nature-com-naturecareers-job-12865429-postdoc-in-ai-driven-design-of-environment-responsive-antibodies-and-nanobodies": {
-   "id": "nature-com-naturecareers-job-12865429-postdoc-in-ai-driven-design-of-environment-responsive-antibodies-and-nanobodies",
-   "title": "Postdoc in AI-driven design of environment-responsive antibodies and nanobodies",
-   "url": "https://www.nature.com/naturecareers/job/12865429/postdoc-in-ai-driven-design-of-environment-responsive-antibodies-and-nanobodies/",
-   "source": "Nature Careers",
-   "institution": "Technical University of Denmark (DTU)",
-   "country": "Danimarka",
-   "deadline": "2026-11-03",
-   "topic": "ML",
-   "relevance": 2,
-   "matched": [
-    "machine learning",
-    "deep learning",
-    "generative model"
-   ],
-   "langs": [
-    "Python",
-    "PyTorch",
-    "JAX"
-   ],
-   "foundAt": "2026-10-29",
-   "langsChecked": true,
-   "emails": [
-    "ahola@bio.dtu.dk"
-   ],
-   "note": "Eşleşen: machine learning, deep learning, generative model"
   },
   "nature-com-naturecareers-job-12865725-postdoctoral-research-associate-biostatistics": {
    "id": "nature-com-naturecareers-job-12865725-postdoctoral-research-associate-biostatistics",
@@ -2708,10 +2655,59 @@
     "recruitment@aithyra.at"
    ],
    "note": "Eşleşen: bioinformatics, genomics, omics, ai"
+  },
+  "quantiki-org-position-quantum-artificial-intelligence-neutral-atom-arrays": {
+   "id": "quantiki-org-position-quantum-artificial-intelligence-neutral-atom-arrays",
+   "title": "Quantum artificial intelligence with neutral-atom arrays",
+   "url": "https://www.quantiki.org/position/quantum-artificial-intelligence-neutral-atom-arrays",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "Fransa",
+   "deadline": "2026-12-17",
+   "topic": "Kuantum",
+   "relevance": 3,
+   "matched": [
+    "quantum computing",
+    "quantum machine learning",
+    "quantum algorithm",
+    "machine learning",
+    "artificial intelligence"
+   ],
+   "langs": [
+    "Python"
+   ],
+   "foundAt": "2026-11-18",
+   "langsChecked": true,
+   "emails": [
+    "quantum.ai@usherbrooke.ca"
+   ],
+   "note": "Eşleşen: quantum computing, quantum machine learning, quantum algorithm, machine learning"
+  },
+  "-naturecareers-job-12866861-postdoctoral-fellow-computational-biology-lung-cancer-initiation-and-progression-swanton-lab": {
+   "id": "-naturecareers-job-12866861-postdoctoral-fellow-computational-biology-lung-cancer-initiation-and-progression-swanton-lab",
+   "title": "Postdoctoral Fellow Computational Biology – Lung Cancer Initiation & Progression - Swanton Lab",
+   "url": "https://www.nature.com/naturecareers/job/12866861/postdoctoral-fellow-computational-biology-lung-cancer-initiation-and-progression-swanton-lab/",
+   "source": "Nature Careers",
+   "institution": "Francis Crick Institute",
+   "country": "Birleşik Krallık",
+   "deadline": "2027-01-16",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "omics",
+    "single-cell"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-18",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: computational biology, omics, single-cell"
   }
  },
- "lastRun": "2026-11-17T14:18:36.365Z",
+ "lastRun": "2026-11-17T23:29:17.601Z",
  "log": [
+  "18/11 02:29  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 2 süresi geçmiş ilan silindi, 16 sn",
   "17/11 17:18  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
   "17/11 03:11  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 3 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 16 sn",
   "16/11 16:33  bot: 90 sayfa (74 açıldı, 16 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 3 yeni ilan, 0 eski ilan okundu, 2 süresi geçmiş ilan silindi, 20 sn",
@@ -2767,6 +2763,6 @@
   "candidates": 4,
   "added": 2,
   "backfilled": 0,
-  "seconds": 21
+  "seconds": 16
  }
 }
