@@ -67,50 +67,6 @@
    "note": "Hesaplamalı nöroloji, nöroinformatik ve klinik veri bağlantısı.",
    "foundAt": "2026-10-24"
   },
-  "jobs-ruhr-uni-bochum-de-jobposting-ccfb73ccd824632cad67e3960105dc6e6f7ef7ec0": {
-   "id": "jobs-ruhr-uni-bochum-de-jobposting-ccfb73ccd824632cad67e3960105dc6e6f7ef7ec0",
-   "title": "Project Z02 – Computational Modeling of Learning Dynamics (SFB 1280)",
-   "institution": "Ruhr-Universität Bochum",
-   "country": "Almanya",
-   "deadline": "2026-11-02",
-   "url": "https://jobs.ruhr-uni-bochum.de/jobposting/ccfb73ccd824632cad67e3960105dc6e6f7ef7ec0",
-   "source": "Bernstein Network",
-   "topic": "Nöro",
-   "relevance": 2,
-   "note": "Öğrenme dinamiklerinin hesaplamalı modellenmesi.",
-   "foundAt": "2026-10-24",
-   "langs": [
-    "Python",
-    "C++",
-    "MATLAB"
-   ],
-   "langsChecked": true,
-   "emails": [
-    "e084140_xz2kugt5do_1-0@jobs.ruhr-uni-bochum.de",
-    "wpr@rub.de"
-   ]
-  },
-  "jobs-ruhr-uni-bochum-de-jobposting-1a216242df7d11a68fb762a850c9d76a08a289ea0": {
-   "id": "jobs-ruhr-uni-bochum-de-jobposting-1a216242df7d11a68fb762a850c9d76a08a289ea0",
-   "title": "Project A14 – Spiking Neural Network Models of Hippocampal Memory (SFB 1280)",
-   "institution": "Ruhr-Universität Bochum",
-   "country": "Almanya",
-   "deadline": "2026-11-02",
-   "url": "https://jobs.ruhr-uni-bochum.de/jobposting/1a216242df7d11a68fb762a850c9d76a08a289ea0",
-   "source": "Bernstein Network",
-   "topic": "Nöro",
-   "relevance": 2,
-   "note": "Spiking sinir ağları ve bellek modelleri.",
-   "foundAt": "2026-10-24",
-   "langs": [
-    "Python"
-   ],
-   "langsChecked": true,
-   "emails": [
-    "30994e0_f6xu0zrien_1-0@jobs.ruhr-uni-bochum.de",
-    "wpr@rub.de"
-   ]
-  },
   "academictransfer-com-en-jobs-364972-postdoctoral-research-fellow-computational-neurophysiology-of-human-motivation": {
    "id": "academictransfer-com-en-jobs-364972-postdoctoral-research-fellow-computational-neurophysiology-of-human-motivation",
    "title": "Postdoctoral research fellow: Computational neurophysiology of human motivation",
@@ -601,31 +557,6 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: bioinformatics, computational biology, single-cell"
-  },
-  "nature-com-naturecareers-job-12863254-postdoctoral-research-associate-position-in-computational-biology-pritykin-lab": {
-   "id": "nature-com-naturecareers-job-12863254-postdoctoral-research-associate-position-in-computational-biology-pritykin-lab",
-   "title": "Postdoctoral Research Associate Position in Computational Biology - Pritykin Lab",
-   "url": "https://www.nature.com/naturecareers/job/12863254/postdoctoral-research-associate-position-in-computational-biology-pritykin-lab/",
-   "source": "Nature Careers",
-   "institution": "Princeton University",
-   "country": "ABD",
-   "deadline": "2026-11-02",
-   "topic": "Biyo",
-   "relevance": 3,
-   "matched": [
-    "bioinformatics",
-    "computational biology",
-    "genomics",
-    "machine learning",
-    "data science"
-   ],
-   "langs": [],
-   "foundAt": "2026-10-29",
-   "langsChecked": true,
-   "emails": [
-    "pritykin@princeton.edu"
-   ],
-   "note": "Eşleşen: bioinformatics, computational biology, genomics, machine learning"
   },
   "doc-position-for-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology-LinkSource-PremiumListing": {
    "id": "doc-position-for-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology-LinkSource-PremiumListing",
@@ -2660,10 +2591,74 @@
     "shimpei.ishiyama@zi-mannheim.de"
    ],
    "note": "Eşleşen: systems neuroscience"
+  },
+  "nature-com-naturecareers-job-12866730-postdoctoral-appointee-portable-sensing-systems-hybrid": {
+   "id": "nature-com-naturecareers-job-12866730-postdoctoral-appointee-portable-sensing-systems-hybrid",
+   "title": "Postdoctoral Appointee - Portable Sensing Systems, Hybrid",
+   "url": "https://www.nature.com/naturecareers/job/12866730/postdoctoral-appointee-portable-sensing-systems-hybrid/",
+   "source": "Nature Careers ABD",
+   "institution": "Sandia National Laboratories",
+   "country": "ABD",
+   "deadline": "2026-12-12",
+   "topic": "Yazılım",
+   "relevance": 2,
+   "matched": [
+    "software testing"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-17",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: software testing"
+  },
+  "nature-com-naturecareers-job-12866042-postdoctoral-appointee-laser-and-radiation-effects-on-microelectronics-onsite": {
+   "id": "nature-com-naturecareers-job-12866042-postdoctoral-appointee-laser-and-radiation-effects-on-microelectronics-onsite",
+   "title": "Postdoctoral Appointee - Laser and Radiation Effects on Microelectronics, Onsite",
+   "url": "https://www.nature.com/naturecareers/job/12866042/postdoctoral-appointee-laser-and-radiation-effects-on-microelectronics-onsite/",
+   "source": "Nature Careers ABD",
+   "institution": "Sandia National Laboratories",
+   "country": "ABD",
+   "deadline": "2026-11-22",
+   "topic": "Yazılım",
+   "relevance": 2,
+   "matched": [
+    "test automation"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-17",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: test automation"
+  },
+  "euraxess-ec-europa-eu-jobs-480711": {
+   "id": "euraxess-ec-europa-eu-jobs-480711",
+   "title": "Postdoctoral researcher in \"Composite Artificial Intelligence for the Design of All-Optical Processors\"",
+   "url": "https://euraxess.ec.europa.eu/jobs/480711",
+   "source": "EURAXESS",
+   "institution": "Université Bourgogne Europe",
+   "country": "Fransa",
+   "deadline": "2026-12-16",
+   "topic": "ML",
+   "relevance": 2,
+   "matched": [
+    "machine learning",
+    "artificial intelligence",
+    "neural network"
+   ],
+   "langs": [
+    "Python",
+    "PyTorch",
+    "TensorFlow"
+   ],
+   "foundAt": "2026-11-17",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: machine learning, artificial intelligence, neural network"
   }
  },
- "lastRun": "2026-11-16T13:33:29.873Z",
+ "lastRun": "2026-11-17T00:11:39.869Z",
  "log": [
+  "17/11 03:11  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 3 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 16 sn",
   "16/11 16:33  bot: 90 sayfa (74 açıldı, 16 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 3 yeni ilan, 0 eski ilan okundu, 2 süresi geçmiş ilan silindi, 20 sn",
   "15/11 23:59  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
   "15/11 15:40  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 2 süresi geçmiş ilan silindi, 17 sn",
@@ -2707,8 +2702,8 @@
  "lastAdded": 3,
  "lastStats": {
   "pages": 90,
-  "ok": 74,
-  "fail": 16,
+  "ok": 73,
+  "fail": 17,
   "failedSources": [
    "AcademicPositions",
    "Science Careers",
@@ -2717,6 +2712,6 @@
   "candidates": 5,
   "added": 3,
   "backfilled": 0,
-  "seconds": 20
+  "seconds": 16
  }
 }
