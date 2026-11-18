@@ -2703,10 +2703,37 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: computational biology, omics, single-cell"
+  },
+  "nature-com-naturecareers-job-12866868-postdoctoral-research-fellow-LinkSource-PremiumListing": {
+   "id": "nature-com-naturecareers-job-12866868-postdoctoral-research-fellow-LinkSource-PremiumListing",
+   "title": "Postdoctoral Research Fellow",
+   "url": "https://www.nature.com/naturecareers/job/12866868/postdoctoral-research-fellow/?LinkSource=PremiumListing",
+   "source": "Nature Careers",
+   "institution": "University of Michigan",
+   "country": "ABD",
+   "deadline": "2027-01-16",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "bioinformatics",
+    "genomics",
+    "omics"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-11-18",
+   "langsChecked": true,
+   "emails": [
+    "liulili@umich.edu"
+   ],
+   "note": "Eşleşen: bioinformatics, genomics, omics"
   }
  },
- "lastRun": "2026-11-17T23:29:17.601Z",
+ "lastRun": "2026-11-18T13:52:50.739Z",
  "log": [
+  "18/11 16:52  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "18/11 02:29  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 2 süresi geçmiş ilan silindi, 16 sn",
   "17/11 17:18  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
   "17/11 03:11  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 5 aday, 3 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 16 sn",
@@ -2750,7 +2777,7 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 2,
+ "lastAdded": 1,
  "lastStats": {
   "pages": 90,
   "ok": 73,
@@ -2760,9 +2787,9 @@
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 4,
-  "added": 2,
+  "candidates": 3,
+  "added": 1,
   "backfilled": 0,
-  "seconds": 16
+  "seconds": 14
  }
 }
