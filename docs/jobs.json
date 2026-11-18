@@ -890,33 +890,6 @@
    "emails": [],
    "note": "Eşleşen: biostatistics, machine learning"
   },
-  "nature-com-naturecareers-job-12864996-postdoc-in-ai-for-biomedicine-casale-group": {
-   "id": "nature-com-naturecareers-job-12864996-postdoc-in-ai-for-biomedicine-casale-group",
-   "title": "Postdoc in AI for Biomedicine - Casale Group",
-   "url": "https://www.nature.com/naturecareers/job/12864996/postdoc-in-ai-for-biomedicine-casale-group/",
-   "source": "Nature Careers",
-   "institution": "Human Technopole",
-   "country": "İtalya",
-   "deadline": "2026-11-04",
-   "topic": "Biyo",
-   "relevance": 3,
-   "matched": [
-    "computational biology",
-    "single-cell",
-    "biomedical",
-    "machine learning",
-    "data science"
-   ],
-   "langs": [
-    "Python",
-    "PyTorch",
-    "JAX"
-   ],
-   "foundAt": "2026-10-29",
-   "langsChecked": true,
-   "emails": [],
-   "note": "Eşleşen: computational biology, single-cell, biomedical, machine learning"
-  },
   "nature-com-naturecareers-job-12865041-ai-ml-postdoctoral-fellow": {
    "id": "nature-com-naturecareers-job-12865041-ai-ml-postdoctoral-fellow",
    "title": "AI/ML Postdoctoral Fellow",
@@ -945,31 +918,6 @@
     "ruby.oluwafemi@crick.ac.uk"
    ],
    "note": "Eşleşen: computational biology, genomics, omics, machine learning"
-  },
-  "nature-com-naturecareers-job-12864992-postdoc-in-statistical-genetics-casale-group": {
-   "id": "nature-com-naturecareers-job-12864992-postdoc-in-statistical-genetics-casale-group",
-   "title": "Postdoc in Statistical Genetics - Casale Group",
-   "url": "https://www.nature.com/naturecareers/job/12864992/postdoc-in-statistical-genetics-casale-group/",
-   "source": "Nature Careers",
-   "institution": "Human Technopole",
-   "country": "İtalya",
-   "deadline": "2026-11-04",
-   "topic": "Biyo",
-   "relevance": 2,
-   "matched": [
-    "single-cell",
-    "biomedical",
-    "health data",
-    "machine learning",
-    "data science"
-   ],
-   "langs": [
-    "Python"
-   ],
-   "foundAt": "2026-10-29",
-   "langsChecked": true,
-   "emails": [],
-   "note": "Eşleşen: single-cell, biomedical, health data, machine learning"
   },
   "nature-com-naturecareers-job-12865100-postdoctoral-researcher-in-ai-for-digital-forensics": {
    "id": "nature-com-naturecareers-job-12865100-postdoctoral-researcher-in-ai-for-digital-forensics",
@@ -1039,28 +987,6 @@
     "gangliu@uabmc.edu"
    ],
    "note": "Eşleşen: bioinformatics, multi-omics, omics"
-  },
-  "nature-com-naturecareers-job-12864315-postdoctoral-position-in-immunology-and-physiology": {
-   "id": "nature-com-naturecareers-job-12864315-postdoctoral-position-in-immunology-and-physiology",
-   "title": "Postdoctoral Position in Immunology and Physiology",
-   "url": "https://www.nature.com/naturecareers/job/12864315/postdoctoral-position-in-immunology-and-physiology/",
-   "source": "Nature Careers",
-   "institution": "New York University Grossman School of Medicine",
-   "country": "ABD",
-   "deadline": "2026-11-04",
-   "topic": "Biyo",
-   "relevance": 2,
-   "matched": [
-    "bioinformatics",
-    "omics"
-   ],
-   "langs": [],
-   "foundAt": "2026-10-29",
-   "langsChecked": true,
-   "emails": [
-    "stefan.feske@nyulangone.org"
-   ],
-   "note": "Eşleşen: bioinformatics, omics"
   },
   "urecareers-job-12866124-postdoctoral-researcher-1-year-initial-appointment-experimental-systems-neuroscience-of-positive": {
    "id": "urecareers-job-12866124-postdoctoral-researcher-1-year-initial-appointment-experimental-systems-neuroscience-of-positive",
@@ -2729,10 +2655,109 @@
     "liulili@umich.edu"
    ],
    "note": "Eşleşen: bioinformatics, genomics, omics"
+  },
+  "jobs-sciencecareers-org-job-680552-postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics": {
+   "id": "jobs-sciencecareers-org-job-680552-postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics",
+   "title": "Postdoctoral Associate - Cancer Bioinformatics, Biostatistics, and Multi-Omics",
+   "url": "https://jobs.sciencecareers.org/job/680552/postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics/",
+   "source": "Science Careers",
+   "institution": "Baylor College of Medicine",
+   "country": "ABD",
+   "deadline": "2026-11-26",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics"
+   ],
+   "langs": [
+    "Python",
+    "R",
+    "Linux"
+   ],
+   "foundAt": "2026-11-19",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics"
+  },
+  "-computational-biologist-postdoctoral-fellow-single-molecule-epigenomics-and-3d-genome-biology-LinkSource-PremiumListing": {
+   "id": "-computational-biologist-postdoctoral-fellow-single-molecule-epigenomics-and-3d-genome-biology-LinkSource-PremiumListing",
+   "title": "Computational Biologist / Postdoctoral Fellow – Single-Molecule Epigenomics & 3D Genome Biology",
+   "url": "https://jobs.sciencecareers.org/job/681219/computational-biologist-postdoctoral-fellow-single-molecule-epigenomics-and-3d-genome-biology/?LinkSource=PremiumListing",
+   "source": "Science Careers",
+   "institution": "NYU Langone Health",
+   "country": "ABD",
+   "deadline": "2027-01-11",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics",
+    "machine learning"
+   ],
+   "langs": [
+    "Python",
+    "R",
+    "Linux"
+   ],
+   "foundAt": "2026-11-19",
+   "langsChecked": true,
+   "emails": [
+    "jane.skok@nyulangone.org"
+   ],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics, machine learning"
+  },
+  "quantiki-org-position-postdoc-quantum-information-science-and-quantum-many-body-dynamics-jena-university-germany": {
+   "id": "quantiki-org-position-postdoc-quantum-information-science-and-quantum-many-body-dynamics-jena-university-germany",
+   "title": "Postdoc in Quantum Information Science and Quantum Many-Body Dynamics at Jena University, Germany",
+   "url": "https://www.quantiki.org/position/postdoc-quantum-information-science-and-quantum-many-body-dynamics-jena-university-germany",
+   "source": "Quantiki",
+   "institution": "Jena University",
+   "country": "Almanya",
+   "deadline": "2026-12-18",
+   "topic": "Kuantum",
+   "relevance": 2,
+   "matched": [
+    "quantum information",
+    "quantum simulation",
+    "quantum technologies"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-19",
+   "langsChecked": true,
+   "emails": [
+    "martin.gaerttner@uni-jena.de"
+   ],
+   "note": "Eşleşen: quantum information, quantum simulation, quantum technologies"
+  },
+  "euraxess-ec-europa-eu-jobs-481323": {
+   "id": "euraxess-ec-europa-eu-jobs-481323",
+   "title": "Marie Skłodowska-Curie Doctoral Network Researcher ENG04111",
+   "url": "https://euraxess.ec.europa.eu/jobs/481323",
+   "source": "EURAXESS",
+   "institution": "Imperial College London",
+   "country": "Birleşik Krallık",
+   "deadline": "2027-01-03",
+   "topic": "ML",
+   "relevance": 2,
+   "matched": [
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-19",
+   "langsChecked": true,
+   "emails": [
+    "b.pal@imperial.ac.uk",
+    "raluca.reynolds@imperial.ac.uk"
+   ],
+   "note": "Eşleşen: ai"
   }
  },
- "lastRun": "2026-11-18T13:52:50.739Z",
+ "lastRun": "2026-11-18T22:55:59.097Z",
  "log": [
+  "19/11 01:55  bot: 90 sayfa (79 açıldı, 11 açılmadı: AcademicPositions, EURAXESS), 6 aday, 4 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 19 sn",
   "18/11 16:52  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "18/11 02:29  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 2 süresi geçmiş ilan silindi, 16 sn",
   "17/11 17:18  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 21 sn",
@@ -2777,19 +2802,18 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 1,
+ "lastAdded": 4,
  "lastStats": {
   "pages": 90,
-  "ok": 73,
-  "fail": 17,
+  "ok": 79,
+  "fail": 11,
   "failedSources": [
    "AcademicPositions",
-   "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 3,
-  "added": 1,
+  "candidates": 6,
+  "added": 4,
   "backfilled": 0,
-  "seconds": 14
+  "seconds": 19
  }
 }
