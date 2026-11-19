@@ -54,19 +54,6 @@
     "elenareimar@gmail.com"
    ]
   },
-  "academicpositions-com-ad-forschungszentrum-julich-2026-postdoc-systems-neuroscience-computational-neurology-253840": {
-   "id": "academicpositions-com-ad-forschungszentrum-julich-2026-postdoc-systems-neuroscience-computational-neurology-253840",
-   "title": "Postdoc – Systems Neuroscience / Computational Neurology",
-   "institution": "Forschungszentrum Jülich",
-   "country": "Almanya",
-   "deadline": "2026-11-05",
-   "url": "https://academicpositions.com/ad/forschungszentrum-julich/2026/postdoc-systems-neuroscience-computational-neurology/253840",
-   "source": "AcademicPositions",
-   "topic": "Nöro",
-   "relevance": 3,
-   "note": "Hesaplamalı nöroloji, nöroinformatik ve klinik veri bağlantısı.",
-   "foundAt": "2026-10-24"
-  },
   "academictransfer-com-en-jobs-364972-postdoctoral-research-fellow-computational-neurophysiology-of-human-motivation": {
    "id": "academictransfer-com-en-jobs-364972-postdoctoral-research-fellow-computational-neurophysiology-of-human-motivation",
    "title": "Postdoctoral research fellow: Computational neurophysiology of human motivation",
@@ -197,19 +184,6 @@
    "note": "Büyük dil modellerinin verimli çalıştırılması.",
    "foundAt": "2026-10-24"
   },
-  "com-ad-kth-royal-institute-of-technology-2026-postdoc-in-sustainable-generative-artificial-intelligence-for-media-253658": {
-   "id": "com-ad-kth-royal-institute-of-technology-2026-postdoc-in-sustainable-generative-artificial-intelligence-for-media-253658",
-   "title": "Postdoc in sustainable generative AI for media",
-   "institution": "KTH Royal Institute of Technology",
-   "country": "İsveç",
-   "deadline": "2026-11-05",
-   "url": "https://academicpositions.com/ad/kth-royal-institute-of-technology/2026/postdoc-in-sustainable-generative-artificial-intelligence-for-media/253658",
-   "source": "AcademicPositions",
-   "topic": "ML",
-   "relevance": 2,
-   "note": "Üretken yapay zekâ.",
-   "foundAt": "2026-10-24"
-  },
   "academicpositions-com-ad-university-of-luxembourg-2026-postdoc-in-machine-learning-and-surrogate-modelling-244127": {
    "id": "academicpositions-com-ad-university-of-luxembourg-2026-postdoc-in-machine-learning-and-surrogate-modelling-244127",
    "title": "Postdoc in Machine Learning and Surrogate Modelling",
@@ -301,19 +275,6 @@
    "emails": [
     "s.m.labib@uu.nl"
    ]
-  },
-  "academicpositions-com-ad-university-of-agder-uia-2026-post-doctoral-research-fellow-in-ict-253914": {
-   "id": "academicpositions-com-ad-university-of-agder-uia-2026-post-doctoral-research-fellow-in-ict-253914",
-   "title": "Post-Doctoral Research Fellow in ICT",
-   "institution": "University of Agder (UiA)",
-   "country": "Norveç",
-   "deadline": "2026-11-05",
-   "url": "https://academicpositions.com/ad/university-of-agder-uia/2026/post-doctoral-research-fellow-in-ict/253914",
-   "source": "AcademicPositions",
-   "topic": "ML",
-   "relevance": 1,
-   "note": "Geniş kapsamlı BİT pozisyonu.",
-   "foundAt": "2026-10-24"
   },
   "nature-com-naturecareers-job-12865937-postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics": {
    "id": "nature-com-naturecareers-job-12865937-postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics",
@@ -2781,8 +2742,9 @@
    "note": "Eşleşen: bioinformatics, computational biology, genomics, data science"
   }
  },
- "lastRun": "2026-11-19T14:21:22.535Z",
+ "lastRun": "2026-11-19T23:00:44.384Z",
  "log": [
+  "20/11 02:00  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 14 sn",
   "19/11 17:21  bot: 90 sayfa (79 açıldı, 11 açılmadı: AcademicPositions, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "19/11 01:55  bot: 90 sayfa (79 açıldı, 11 açılmadı: AcademicPositions, EURAXESS), 6 aday, 4 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 19 sn",
   "18/11 16:52  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
@@ -2829,18 +2791,19 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 1,
+ "lastAdded": 0,
  "lastStats": {
   "pages": 90,
-  "ok": 79,
-  "fail": 11,
+  "ok": 73,
+  "fail": 17,
   "failedSources": [
    "AcademicPositions",
+   "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 3,
-  "added": 1,
+  "candidates": 2,
+  "added": 0,
   "backfilled": 0,
-  "seconds": 18
+  "seconds": 14
  }
 }
