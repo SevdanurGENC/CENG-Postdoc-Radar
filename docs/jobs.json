@@ -2753,10 +2753,37 @@
     "raluca.reynolds@imperial.ac.uk"
    ],
    "note": "Eşleşen: ai"
+  },
+  "nature-com-naturecareers-job-12866942-postdoctoral-researcher-m-f-d-bioinformatics-institute-for-cardiogenetics": {
+   "id": "nature-com-naturecareers-job-12866942-postdoctoral-researcher-m-f-d-bioinformatics-institute-for-cardiogenetics",
+   "title": "Postdoctoral Researcher (m/f/d) Bioinformatics – Institute for Cardiogenetics",
+   "url": "https://www.nature.com/naturecareers/job/12866942/postdoctoral-researcher-m-f-d-bioinformatics-institute-for-cardiogenetics/",
+   "source": "Nature Careers",
+   "institution": "University Medical Center Schleswig-Holstein (UKSH)",
+   "country": "Almanya",
+   "deadline": "2026-12-11",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics",
+    "data science"
+   ],
+   "langs": [
+    "Python",
+    "R",
+    "Linux"
+   ],
+   "foundAt": "2026-11-19",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics, data science"
   }
  },
- "lastRun": "2026-11-18T22:55:59.097Z",
+ "lastRun": "2026-11-19T14:21:22.535Z",
  "log": [
+  "19/11 17:21  bot: 90 sayfa (79 açıldı, 11 açılmadı: AcademicPositions, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "19/11 01:55  bot: 90 sayfa (79 açıldı, 11 açılmadı: AcademicPositions, EURAXESS), 6 aday, 4 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 19 sn",
   "18/11 16:52  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "18/11 02:29  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 2 süresi geçmiş ilan silindi, 16 sn",
@@ -2802,7 +2829,7 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 4,
+ "lastAdded": 1,
  "lastStats": {
   "pages": 90,
   "ok": 79,
@@ -2811,9 +2838,9 @@
    "AcademicPositions",
    "EURAXESS"
   ],
-  "candidates": 6,
-  "added": 4,
+  "candidates": 3,
+  "added": 1,
   "backfilled": 0,
-  "seconds": 19
+  "seconds": 18
  }
 }
