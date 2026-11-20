@@ -210,26 +210,6 @@
    "note": "Bilgisayarlı görü.",
    "foundAt": "2026-10-24"
   },
-  "academictransfer-com-en-jobs-364207-postdoc-machine-learning-for-wind-flow-prediction-in-coastal-dunes": {
-   "id": "academictransfer-com-en-jobs-364207-postdoc-machine-learning-for-wind-flow-prediction-in-coastal-dunes",
-   "title": "Postdoc: Machine learning for wind flow prediction in coastal dunes",
-   "institution": "Utrecht University",
-   "country": "Hollanda",
-   "deadline": "2026-11-06",
-   "url": "https://www.academictransfer.com/en/jobs/364207/postdoc-machine-learning-for-wind-flow-prediction-in-coastal-dunes/",
-   "source": "AcademicTransfer",
-   "topic": "ML",
-   "relevance": 2,
-   "note": "ML tarafı uygun, konu yer bilimi.",
-   "foundAt": "2026-10-24",
-   "langs": [
-    "Python"
-   ],
-   "langsChecked": true,
-   "emails": [
-    "c.o.vanijzendoorn@uu.nl"
-   ]
-  },
   "academicpositions-com-ad-university-of-bern-2026-2-postdoctoral-positions-in-deep-learning-253213": {
    "id": "academicpositions-com-ad-university-of-bern-2026-2-postdoctoral-positions-in-deep-learning-253213",
    "title": "2 Postdoctoral Positions in Deep Learning",
@@ -1070,55 +1050,6 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: genomics, multi-omics, omics"
-  },
-  "jobs-ac-uk-job-DTJ895-research-associate-in-ai-and-evidence-synthesis": {
-   "id": "jobs-ac-uk-job-DTJ895-research-associate-in-ai-and-evidence-synthesis",
-   "title": "Research Associate in AI and Evidence Synthesis",
-   "url": "https://www.jobs.ac.uk/job/DTJ895/research-associate-in-ai-and-evidence-synthesis",
-   "source": "jobs.ac.uk",
-   "institution": "King's College London",
-   "country": "Birleşik Krallık",
-   "deadline": "2026-11-06",
-   "topic": "Biyo",
-   "relevance": 3,
-   "matched": [
-    "health data",
-    "artificial intelligence",
-    "ai"
-   ],
-   "langs": [
-    "Python"
-   ],
-   "foundAt": "2026-10-29",
-   "langsChecked": true,
-   "emails": [],
-   "note": "Eşleşen: health data, artificial intelligence, ai"
-  },
-  "nature-com-naturecareers-job-12865476-postdoctoral-fellow-in-blood-cancer-genetics-and-genomics": {
-   "id": "nature-com-naturecareers-job-12865476-postdoctoral-fellow-in-blood-cancer-genetics-and-genomics",
-   "title": "Postdoctoral Fellow in Blood Cancer Genetics and Genomics",
-   "url": "https://www.nature.com/naturecareers/job/12865476/postdoctoral-fellow-in-blood-cancer-genetics-and-genomics/",
-   "source": "Nature Careers ABD",
-   "institution": "Albert Einstein College of Medicine",
-   "country": "ABD",
-   "deadline": "2026-11-06",
-   "topic": "Biyo",
-   "relevance": 3,
-   "matched": [
-    "computational biology",
-    "genomics",
-    "omics"
-   ],
-   "langs": [
-    "Python",
-    "R"
-   ],
-   "foundAt": "2026-10-29",
-   "langsChecked": true,
-   "emails": [
-    "satish.nandakumar@einsteinmed.edu"
-   ],
-   "note": "Eşleşen: computational biology, genomics, omics"
   },
   "turecareers-job-12865490-postdoctoral-research-associate-gene-regulation-single-cell-multi-omics-and-functional-genomics": {
    "id": "turecareers-job-12865490-postdoctoral-research-associate-gene-regulation-single-cell-multi-omics-and-functional-genomics",
@@ -2815,8 +2746,9 @@
    "note": "Eşleşen: biomedical"
   }
  },
- "lastRun": "2026-11-20T13:57:40.246Z",
+ "lastRun": "2026-11-20T22:38:38.306Z",
  "log": [
+  "21/11 01:38  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 17 sn",
   "20/11 16:57  bot: 90 sayfa (70 açıldı, 20 açılmadı: AcademicPositions, AcademicTransfer, Science Careers, EURAXESS), 5 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "20/11 02:00  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 14 sn",
   "19/11 17:21  bot: 90 sayfa (79 açıldı, 11 açılmadı: AcademicPositions, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
@@ -2865,20 +2797,19 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 3,
+ "lastAdded": 0,
  "lastStats": {
   "pages": 90,
-  "ok": 70,
-  "fail": 20,
+  "ok": 73,
+  "fail": 17,
   "failedSources": [
    "AcademicPositions",
-   "AcademicTransfer",
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 5,
-  "added": 3,
+  "candidates": 2,
+  "added": 0,
   "backfilled": 0,
-  "seconds": 16
+  "seconds": 17
  }
 }
