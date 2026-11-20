@@ -2740,10 +2740,84 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: bioinformatics, computational biology, genomics, data science"
+  },
+  "ure-com-naturecareers-job-12866452-postdoctoral-position-in-bioinformatics-and-gene-regulation-LinkSource-PremiumListing": {
+   "id": "ure-com-naturecareers-job-12866452-postdoctoral-position-in-bioinformatics-and-gene-regulation-LinkSource-PremiumListing",
+   "title": "Postdoctoral Position in Bioinformatics and Gene Regulation",
+   "url": "https://www.nature.com/naturecareers/job/12866452/postdoctoral-position-in-bioinformatics-and-gene-regulation/?LinkSource=PremiumListing",
+   "source": "Nature Careers",
+   "institution": "Ashwin Woodhoo - CiMUS USC",
+   "country": "İspanya",
+   "deadline": "2027-01-19",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "omics"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-11-20",
+   "langsChecked": true,
+   "emails": [
+    "ashwin.woodhoo@usc.es"
+   ],
+   "note": "Eşleşen: bioinformatics, computational biology, omics"
+  },
+  "nature-com-naturecareers-job-12867002-postdoctoral-fellow-on-gene-and-metabolism-targeting-therapeutics": {
+   "id": "nature-com-naturecareers-job-12867002-postdoctoral-fellow-on-gene-and-metabolism-targeting-therapeutics",
+   "title": "Postdoctoral Fellow on Gene- and Metabolism-Targeting Therapeutics",
+   "url": "https://www.nature.com/naturecareers/job/12867002/postdoctoral-fellow-on-gene-and-metabolism-targeting-therapeutics/",
+   "source": "Nature Careers ABD",
+   "institution": "St Jude Children's Research Hospital",
+   "country": "ABD",
+   "deadline": "2027-01-19",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "genomics",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-20",
+   "langsChecked": true,
+   "emails": [
+    "jian.xu@stjude.org"
+   ],
+   "note": "Eşleşen: bioinformatics, computational biology, genomics, ai"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-RFIUQGHAJ36WBDBEAE3HDGL35RFCGFTN": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-RFIUQGHAJ36WBDBEAE3HDGL35RFCGFTN",
+   "title": "PhD and postdoc positions in computational and theoretical neuroscience of cognition",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/RFIUQGHAJ36WBDBEAE3HDGL35RFCGFTN/",
+   "source": "comp-neuro listesi",
+   "institution": "",
+   "country": "ABD",
+   "deadline": null,
+   "topic": "Nöro",
+   "relevance": 2,
+   "matched": [
+    "biomedical"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-20",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "yueliu@fau.edu",
+    "comp-neuro@lists.cnsorg.org-RFIUQGHAJ36WBDBEAE3HDGL35RFCGFTN.mbox.gz"
+   ],
+   "note": "Eşleşen: biomedical"
   }
  },
- "lastRun": "2026-11-19T23:00:44.384Z",
+ "lastRun": "2026-11-20T13:57:40.246Z",
  "log": [
+  "20/11 16:57  bot: 90 sayfa (70 açıldı, 20 açılmadı: AcademicPositions, AcademicTransfer, Science Careers, EURAXESS), 5 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "20/11 02:00  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 14 sn",
   "19/11 17:21  bot: 90 sayfa (79 açıldı, 11 açılmadı: AcademicPositions, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "19/11 01:55  bot: 90 sayfa (79 açıldı, 11 açılmadı: AcademicPositions, EURAXESS), 6 aday, 4 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 19 sn",
@@ -2791,19 +2865,20 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 0,
+ "lastAdded": 3,
  "lastStats": {
   "pages": 90,
-  "ok": 73,
-  "fail": 17,
+  "ok": 70,
+  "fail": 20,
   "failedSources": [
    "AcademicPositions",
+   "AcademicTransfer",
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 2,
-  "added": 0,
+  "candidates": 5,
+  "added": 3,
   "backfilled": 0,
-  "seconds": 14
+  "seconds": 16
  }
 }
