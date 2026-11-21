@@ -2744,10 +2744,30 @@
     "comp-neuro@lists.cnsorg.org-RFIUQGHAJ36WBDBEAE3HDGL35RFCGFTN.mbox.gz"
    ],
    "note": "Eşleşen: biomedical"
+  },
+  "euraxess-ec-europa-eu-jobs-482071": {
+   "id": "euraxess-ec-europa-eu-jobs-482071",
+   "title": "Postdoctoral Researcher: Leadership, AI and the Future of Work",
+   "url": "https://euraxess.ec.europa.eu/jobs/482071",
+   "source": "EURAXESS",
+   "institution": "EURAXESS",
+   "country": "Hollanda",
+   "deadline": "2027-01-05",
+   "topic": "ML",
+   "relevance": 2,
+   "matched": [
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-21",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: ai"
   }
  },
- "lastRun": "2026-11-20T22:38:38.306Z",
+ "lastRun": "2026-11-21T13:26:12.933Z",
  "log": [
+  "21/11 16:26  bot: 90 sayfa (66 açıldı, 24 açılmadı: AcademicPositions, Quantiki, CRA Career Center, Science Careers, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 70 sn",
   "21/11 01:38  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 17 sn",
   "20/11 16:57  bot: 90 sayfa (70 açıldı, 20 açılmadı: AcademicPositions, AcademicTransfer, Science Careers, EURAXESS), 5 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "20/11 02:00  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 14 sn",
@@ -2797,19 +2817,21 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 0,
+ "lastAdded": 1,
  "lastStats": {
   "pages": 90,
-  "ok": 73,
-  "fail": 17,
+  "ok": 66,
+  "fail": 24,
   "failedSources": [
    "AcademicPositions",
+   "Quantiki",
+   "CRA Career Center",
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 2,
-  "added": 0,
+  "candidates": 3,
+  "added": 1,
   "backfilled": 0,
-  "seconds": 17
+  "seconds": 70
  }
 }
