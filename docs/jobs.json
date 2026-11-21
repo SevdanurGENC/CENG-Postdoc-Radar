@@ -906,29 +906,6 @@
    ],
    "note": "Eşleşen: deep learning, computer vision"
   },
-  "nature-com-naturecareers-job-12864414-postdoctoral-fellow": {
-   "id": "nature-com-naturecareers-job-12864414-postdoctoral-fellow",
-   "title": "Postdoctoral Fellow",
-   "url": "https://www.nature.com/naturecareers/job/12864414/postdoctoral-fellow/",
-   "source": "Nature Careers",
-   "institution": "Univ. Alabama, Birmingham",
-   "country": "ABD",
-   "deadline": "2026-11-07",
-   "topic": "Biyo",
-   "relevance": 2,
-   "matched": [
-    "bioinformatics",
-    "multi-omics",
-    "omics"
-   ],
-   "langs": [],
-   "foundAt": "2026-10-29",
-   "langsChecked": true,
-   "emails": [
-    "gangliu@uabmc.edu"
-   ],
-   "note": "Eşleşen: bioinformatics, multi-omics, omics"
-  },
   "urecareers-job-12866124-postdoctoral-researcher-1-year-initial-appointment-experimental-systems-neuroscience-of-positive": {
    "id": "urecareers-job-12866124-postdoctoral-researcher-1-year-initial-appointment-experimental-systems-neuroscience-of-positive",
    "title": "Postdoctoral Researcher (1-year-initial appointment) - Experimental Systems Neuroscience of Positive",
@@ -978,36 +955,6 @@
     "david.berron@dzne.de"
    ],
    "note": "Eşleşen: fmri, neuroimaging"
-  },
-  "nature-com-naturecareers-job-12864419-postdoctoral-research-fellow-human-neuroimmunology-brain-organoids-and-multi-omics": {
-   "id": "nature-com-naturecareers-job-12864419-postdoctoral-research-fellow-human-neuroimmunology-brain-organoids-and-multi-omics",
-   "title": "Postdoctoral Research Fellow – Human Neuroimmunology, Brain Organoids and Multi-omics",
-   "url": "https://www.nature.com/naturecareers/job/12864419/postdoctoral-research-fellow-human-neuroimmunology-brain-organoids-and-multi-omics-/",
-   "source": "Nature Careers",
-   "institution": "University of British Columbia - Department of Medicine",
-   "country": "Kanada",
-   "deadline": "2026-11-07",
-   "topic": "Biyo",
-   "relevance": 3,
-   "matched": [
-    "computational biology",
-    "genomics",
-    "multi-omics",
-    "artificial intelligence"
-   ],
-   "langs": [
-    "Python",
-    "R",
-    "Bioconductor"
-   ],
-   "foundAt": "2026-10-29",
-   "langsChecked": true,
-   "emails": [
-    "jan.lunemann@ubc.ca",
-    "sabina.riar@ubc.ca",
-    "workplace.accessibility@ubc.ca"
-   ],
-   "note": "Eşleşen: computational biology, genomics, multi-omics, artificial intelligence"
   },
   "nature-com-naturecareers-job-12866113-postdoctoral-research-associate-radiology": {
    "id": "nature-com-naturecareers-job-12866113-postdoctoral-research-associate-radiology",
@@ -2765,8 +2712,9 @@
    "note": "Eşleşen: ai"
   }
  },
- "lastRun": "2026-11-21T13:26:12.933Z",
+ "lastRun": "2026-11-21T21:37:04.291Z",
  "log": [
+  "22/11 00:37  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 2 süresi geçmiş ilan silindi, 18 sn",
   "21/11 16:26  bot: 90 sayfa (66 açıldı, 24 açılmadı: AcademicPositions, Quantiki, CRA Career Center, Science Careers, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 70 sn",
   "21/11 01:38  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 3 süresi geçmiş ilan silindi, 17 sn",
   "20/11 16:57  bot: 90 sayfa (70 açıldı, 20 açılmadı: AcademicPositions, AcademicTransfer, Science Careers, EURAXESS), 5 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
@@ -2817,21 +2765,19 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 1,
+ "lastAdded": 0,
  "lastStats": {
   "pages": 90,
-  "ok": 66,
-  "fail": 24,
+  "ok": 73,
+  "fail": 17,
   "failedSources": [
    "AcademicPositions",
-   "Quantiki",
-   "CRA Career Center",
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 3,
-  "added": 1,
+  "candidates": 2,
+  "added": 0,
   "backfilled": 0,
-  "seconds": 70
+  "seconds": 18
  }
 }
