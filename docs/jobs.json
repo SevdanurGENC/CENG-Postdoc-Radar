@@ -2723,10 +2723,56 @@
     "rcuh_recruitment@rcuh.com"
    ],
    "note": "Eşleşen: bioinformatics, computational biology, genomics"
+  },
+  "quantiki-org-position-postdoctoral-position-quantum-information-theory-3": {
+   "id": "quantiki-org-position-postdoctoral-position-quantum-information-theory-3",
+   "title": "Postdoctoral position in quantum information theory",
+   "url": "https://www.quantiki.org/position/postdoctoral-position-quantum-information-theory-3",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "İsveç",
+   "deadline": "2026-12-31",
+   "topic": "Kuantum",
+   "relevance": 2,
+   "matched": [
+    "quantum information",
+    "quantum computer",
+    "quantum technologies"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-23",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: quantum information, quantum computer, quantum technologies"
+  },
+  "euraxess-ec-europa-eu-jobs-482350": {
+   "id": "euraxess-ec-europa-eu-jobs-482350",
+   "title": "Researcher in AI and Optimization for Semiconductor Manufacturing",
+   "url": "https://euraxess.ec.europa.eu/jobs/482350",
+   "source": "EURAXESS",
+   "institution": "IMEC",
+   "country": "Belçika",
+   "deadline": "2027-02-23",
+   "topic": "ML",
+   "relevance": 2,
+   "matched": [
+    "machine learning",
+    "ai"
+   ],
+   "langs": [
+    "Python"
+   ],
+   "foundAt": "2026-11-23",
+   "langsChecked": true,
+   "emails": [
+    "jobs@imec.be"
+   ],
+   "note": "Eşleşen: machine learning, ai"
   }
  },
- "lastRun": "2026-11-22T21:43:34.581Z",
+ "lastRun": "2026-11-23T15:53:44.256Z",
  "log": [
+  "23/11 18:53  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 3 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 12 sn",
   "23/11 00:43  bot: 90 sayfa (67 açıldı, 23 açılmadı: AcademicPositions, CRA Career Center, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 1 süresi geçmiş ilan silindi, 40 sn",
   "22/11 16:16  bot: 90 sayfa (77 açıldı, 13 açılmadı: AcademicPositions, AcademicTransfer, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 15 sn",
   "22/11 00:37  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 2 süresi geçmiş ilan silindi, 18 sn",
@@ -2780,20 +2826,20 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 0,
+ "lastAdded": 2,
  "lastStats": {
   "pages": 90,
-  "ok": 67,
-  "fail": 23,
+  "ok": 60,
+  "fail": 30,
   "failedSources": [
    "AcademicPositions",
-   "CRA Career Center",
+   "jobs.ac.uk",
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 2,
-  "added": 0,
+  "candidates": 3,
+  "added": 2,
   "backfilled": 0,
-  "seconds": 40
+  "seconds": 12
  }
 }
