@@ -2789,10 +2789,85 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: quantum information, quantum computer, quantum technologies"
+  },
+  "nature-com-naturecareers-job-12867126-postdoc-in-molecular-imaging-and-spatial-omics": {
+   "id": "nature-com-naturecareers-job-12867126-postdoc-in-molecular-imaging-and-spatial-omics",
+   "title": "Postdoc in Molecular Imaging and Spatial Omics",
+   "url": "https://www.nature.com/naturecareers/job/12867126/postdoc-in-molecular-imaging-and-spatial-omics/",
+   "source": "Nature Careers",
+   "institution": "Aarhus University (AU)",
+   "country": "Danimarka",
+   "deadline": "2027-01-05",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "omics",
+    "biomedical"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-11-24",
+   "langsChecked": true,
+   "emails": [
+    "tkim@dandrite.au.dk"
+   ],
+   "note": "Eşleşen: omics, biomedical"
+  },
+  "nature-com-naturecareers-job-12867111-postdoctoral-research-associate-in-proteomics-and-human-disease-research": {
+   "id": "nature-com-naturecareers-job-12867111-postdoctoral-research-associate-in-proteomics-and-human-disease-research",
+   "title": "Postdoctoral Research Associate in Proteomics and Human Disease Research",
+   "url": "https://www.nature.com/naturecareers/job/12867111/postdoctoral-research-associate-in-proteomics-and-human-disease-research/",
+   "source": "Nature Careers",
+   "institution": "St Jude Children's Research Hospital",
+   "country": "ABD",
+   "deadline": "2027-01-23",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "multi-omics",
+    "omics",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-24",
+   "langsChecked": true,
+   "emails": [
+    "junmin.peng@stjude.org"
+   ],
+   "note": "Eşleşen: computational biology, multi-omics, omics, ai"
+  },
+  "nature-com-naturecareers-job-12867115-postdoctoral-research-associate-geeleher-lab-dry-lab": {
+   "id": "nature-com-naturecareers-job-12867115-postdoctoral-research-associate-geeleher-lab-dry-lab",
+   "title": "Postdoctoral Research Associate - Geeleher Lab (dry lab)",
+   "url": "https://www.nature.com/naturecareers/job/12867115/postdoctoral-research-associate-geeleher-lab-dry-lab-/",
+   "source": "Nature Careers ABD",
+   "institution": "St Jude Children's Research Hospital",
+   "country": "ABD",
+   "deadline": "2027-01-23",
+   "topic": "Biyo",
+   "relevance": 2,
+   "matched": [
+    "genomics",
+    "omics",
+    "single-cell",
+    "ai"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-11-24",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: genomics, omics, single-cell, ai"
   }
  },
- "lastRun": "2026-11-24T02:52:33.300Z",
+ "lastRun": "2026-11-24T15:45:58.641Z",
  "log": [
+  "24/11 18:45  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 4 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 11 sn",
   "24/11 05:52  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 2 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 10 sn",
   "23/11 18:53  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 3 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 12 sn",
   "23/11 00:43  bot: 90 sayfa (67 açıldı, 23 açılmadı: AcademicPositions, CRA Career Center, Science Careers, EURAXESS), 2 aday, 0 yeni ilan, 0 eski ilan okundu, 1 süresi geçmiş ilan silindi, 40 sn",
@@ -2848,7 +2923,7 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 1,
+ "lastAdded": 3,
  "lastStats": {
   "pages": 90,
   "ok": 60,
@@ -2859,9 +2934,9 @@
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 2,
-  "added": 1,
+  "candidates": 4,
+  "added": 3,
   "backfilled": 0,
-  "seconds": 10
+  "seconds": 11
  }
 }
