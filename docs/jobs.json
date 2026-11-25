@@ -2913,10 +2913,81 @@
     "comp-neuro@lists.cnsorg.org-3JTMTIXQ3NABMNA7B7LIPQGJS6Z26NUO.mbox.gz"
    ],
    "note": "Eşleşen: computational biology, biomedical"
+  },
+  "nature-com-naturecareers-job-12867189-postdoctoral-positions-sustainable-and-ai-driven-software-development": {
+   "id": "nature-com-naturecareers-job-12867189-postdoctoral-positions-sustainable-and-ai-driven-software-development",
+   "title": "Postdoctoral positions Sustainable and AI-Driven Software Development",
+   "url": "https://www.nature.com/naturecareers/job/12867189/postdoctoral-positions-sustainable-and-ai-driven-software-development/",
+   "source": "Nature Careers",
+   "institution": "University of Southern Denmark (SDU)",
+   "country": "Danimarka",
+   "deadline": "2026-12-08",
+   "topic": "Yazılım",
+   "relevance": 3,
+   "matched": [
+    "software quality",
+    "software engineering",
+    "empirical software engineering",
+    "artificial intelligence",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-25",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: software quality, software engineering, empirical software engineering, artificial intelligence"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-M3KG65CAV25PTLA7PMKY6TQD3NDONK2Z": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-M3KG65CAV25PTLA7PMKY6TQD3NDONK2Z",
+   "title": "PhD, RA, and postdoctoral positions in \"fully\" neural cognition at the University of Rochester",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/M3KG65CAV25PTLA7PMKY6TQD3NDONK2Z/",
+   "source": "comp-neuro listesi",
+   "institution": "the University of Rochester",
+   "country": "",
+   "deadline": null,
+   "topic": "Nöro",
+   "relevance": 2,
+   "matched": [
+    "neural network",
+    "data science"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-25",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "kenneth.kay@rochester.edu",
+    "comp-neuro@lists.cnsorg.org-M3KG65CAV25PTLA7PMKY6TQD3NDONK2Z.mbox.gz"
+   ],
+   "note": "Eşleşen: neural network, data science"
+  },
+  "quantiki-org-position-postdoctoral-positions-multipartite-entanglement-and-quantum-communication": {
+   "id": "quantiki-org-position-postdoctoral-positions-multipartite-entanglement-and-quantum-communication",
+   "title": "Postdoctoral Positions in Multipartite Entanglement and Quantum Communication",
+   "url": "https://www.quantiki.org/position/postdoctoral-positions-multipartite-entanglement-and-quantum-communication",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "Almanya",
+   "deadline": "2026-12-09",
+   "topic": "Kuantum",
+   "relevance": 2,
+   "matched": [
+    "quantum information",
+    "quantum error correction",
+    "quantum technologies"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-25",
+   "langsChecked": true,
+   "emails": [
+    "zahra.raissi@uni-muenster.de"
+   ],
+   "note": "Eşleşen: quantum information, quantum error correction, quantum technologies"
   }
  },
- "lastRun": "2026-11-25T00:35:48.954Z",
+ "lastRun": "2026-11-25T15:30:38.412Z",
  "log": [
+  "25/11 18:30  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 4 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 28 sn",
   "25/11 03:35  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 3 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "24/11 18:45  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 4 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 11 sn",
   "24/11 05:52  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 2 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 10 sn",
@@ -2974,7 +3045,7 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 2,
+ "lastAdded": 3,
  "lastStats": {
   "pages": 90,
   "ok": 60,
@@ -2985,9 +3056,9 @@
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 3,
-  "added": 2,
+  "candidates": 4,
+  "added": 3,
   "backfilled": 0,
-  "seconds": 14
+  "seconds": 28
  }
 }
