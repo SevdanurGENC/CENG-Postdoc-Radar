@@ -2863,10 +2863,61 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: genomics, omics, single-cell, ai"
+  },
+  "ature-com-naturecareers-job-12867136-postdoctoral-fellow-in-blood-cancer-genetics-and-genomics-LinkSource-PremiumListing": {
+   "id": "ature-com-naturecareers-job-12867136-postdoctoral-fellow-in-blood-cancer-genetics-and-genomics-LinkSource-PremiumListing",
+   "title": "Postdoctoral Fellow in Blood Cancer Genetics and Genomics",
+   "url": "https://www.nature.com/naturecareers/job/12867136/postdoctoral-fellow-in-blood-cancer-genetics-and-genomics/?LinkSource=PremiumListing",
+   "source": "Nature Careers ABD",
+   "institution": "Albert Einstein College of Medicine",
+   "country": "ABD",
+   "deadline": "2027-01-23",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "computational biology",
+    "genomics",
+    "omics"
+   ],
+   "langs": [
+    "Python",
+    "R"
+   ],
+   "foundAt": "2026-11-25",
+   "langsChecked": true,
+   "emails": [
+    "satish.nandakumar@einsteinmed.edu"
+   ],
+   "note": "Eşleşen: computational biology, genomics, omics"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-3JTMTIXQ3NABMNA7B7LIPQGJS6Z26NUO": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-3JTMTIXQ3NABMNA7B7LIPQGJS6Z26NUO",
+   "title": "Postdoc and Ph.D. openings in human single-neuron recordings",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/3JTMTIXQ3NABMNA7B7LIPQGJS6Z26NUO/",
+   "source": "comp-neuro listesi",
+   "institution": "",
+   "country": "ABD",
+   "deadline": "2026-12-01",
+   "topic": "Nöro",
+   "relevance": 2,
+   "matched": [
+    "computational biology",
+    "biomedical"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-25",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "zhongzheng.fu@utsouthwestern.edu",
+    "comp-neuro@lists.cnsorg.org-3JTMTIXQ3NABMNA7B7LIPQGJS6Z26NUO.mbox.gz"
+   ],
+   "note": "Eşleşen: computational biology, biomedical"
   }
  },
- "lastRun": "2026-11-24T15:45:58.641Z",
+ "lastRun": "2026-11-25T00:35:48.954Z",
  "log": [
+  "25/11 03:35  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 3 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "24/11 18:45  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 4 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 11 sn",
   "24/11 05:52  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 2 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 10 sn",
   "23/11 18:53  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 3 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 12 sn",
@@ -2923,7 +2974,7 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 3,
+ "lastAdded": 2,
  "lastStats": {
   "pages": 90,
   "ok": 60,
@@ -2934,9 +2985,9 @@
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 4,
-  "added": 3,
+  "candidates": 3,
+  "added": 2,
   "backfilled": 0,
-  "seconds": 11
+  "seconds": 14
  }
 }
