@@ -72,19 +72,6 @@
     "roshan.cools@donders.ru.nl"
    ]
   },
-  "com-ad-karolinska-institutet-2026-postdoctoral-researcher-in-advanced-brain-imaging-in-neurodegenerative-diseases-254322": {
-   "id": "com-ad-karolinska-institutet-2026-postdoctoral-researcher-in-advanced-brain-imaging-in-neurodegenerative-diseases-254322",
-   "title": "Postdoctoral Researcher in Advanced Brain Imaging in Neurodegenerative Diseases",
-   "institution": "Karolinska Institutet",
-   "country": "İsveç",
-   "deadline": "2026-11-11",
-   "url": "https://academicpositions.com/ad/karolinska-institutet/2026/postdoctoral-researcher-in-advanced-brain-imaging-in-neurodegenerative-diseases/254322",
-   "source": "AcademicPositions",
-   "topic": "Nöro",
-   "relevance": 2,
-   "note": "Beyin görüntüleme. Sağlık verisi deneyimin işe yarar.",
-   "foundAt": "2026-10-24"
-  },
   "academictransfer-com-en-jobs-364986-postdoc-markerless-motion-capture-for-home-monitoring-in-neurological-populations": {
    "id": "academictransfer-com-en-jobs-364986-postdoc-markerless-motion-capture-for-home-monitoring-in-neurological-populations",
    "title": "Postdoc: Markerless Motion Capture for Home Monitoring in Neurological Populations",
@@ -2983,10 +2970,65 @@
     "zahra.raissi@uni-muenster.de"
    ],
    "note": "Eşleşen: quantum information, quantum error correction, quantum technologies"
+  },
+  "quantiki-org-position-research-scientist-theory-online-decoders": {
+   "id": "quantiki-org-position-research-scientist-theory-online-decoders",
+   "title": "Research Scientist (Theory) Online Decoders",
+   "url": "https://www.quantiki.org/position/research-scientist-theory-online-decoders",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "Almanya",
+   "deadline": null,
+   "topic": "Kuantum",
+   "relevance": 2,
+   "matched": [
+    "quantum computing",
+    "quantum information",
+    "quantum computer"
+   ],
+   "langs": [
+    "Python",
+    "Julia",
+    "C++",
+    "Rust"
+   ],
+   "foundAt": "2026-11-26",
+   "langsChecked": true,
+   "emails": [
+    "career@neqxt.org",
+    "s.heussen@neqxt.org"
+   ],
+   "note": "Eşleşen: quantum computing, quantum information, quantum computer"
+  },
+  "quantiki-org-position-distributed-quantum-computing-networked-trapped-ion-systems-ionq-and-uoft": {
+   "id": "quantiki-org-position-distributed-quantum-computing-networked-trapped-ion-systems-ionq-and-uoft",
+   "title": "Distributed Quantum Computing on Networked Trapped-Ion Systems (IonQ and UofT)",
+   "url": "https://www.quantiki.org/position/distributed-quantum-computing-networked-trapped-ion-systems-ionq-and-uoft",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "Kanada",
+   "deadline": "2026-12-15",
+   "topic": "Kuantum",
+   "relevance": 3,
+   "matched": [
+    "quantum computing",
+    "quantum algorithm",
+    "quantum software"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-26",
+   "langsChecked": true,
+   "emails": [
+    "v.cirillo@utoronto.ca",
+    "jacobsen@eecg.utoronto.ca",
+    "vincent.russo@ionq.co"
+   ],
+   "note": "Eşleşen: quantum computing, quantum algorithm, quantum software"
   }
  },
- "lastRun": "2026-11-25T15:30:38.412Z",
+ "lastRun": "2026-11-26T00:15:01.750Z",
  "log": [
+  "26/11 03:15  bot: 90 sayfa (66 açıldı, 24 açılmadı: AcademicPositions, jobs.ac.uk, EURAXESS), 3 aday, 2 yeni ilan, 0 eski ilan okundu, 1 süresi geçmiş ilan silindi, 13 sn",
   "25/11 18:30  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 4 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 28 sn",
   "25/11 03:35  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 3 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "24/11 18:45  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 4 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 11 sn",
@@ -3045,20 +3087,19 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 3,
+ "lastAdded": 2,
  "lastStats": {
   "pages": 90,
-  "ok": 60,
-  "fail": 30,
+  "ok": 66,
+  "fail": 24,
   "failedSources": [
    "AcademicPositions",
    "jobs.ac.uk",
-   "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 4,
-  "added": 3,
+  "candidates": 3,
+  "added": 2,
   "backfilled": 0,
-  "seconds": 28
+  "seconds": 13
  }
 }
