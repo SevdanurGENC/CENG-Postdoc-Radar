@@ -3047,10 +3047,132 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: biomedical, machine learning, artificial intelligence"
+  },
+  "liebelab-github-io-positions-phd-postdoc-ai-neuroscience-pdf": {
+   "id": "liebelab-github-io-positions-phd-postdoc-ai-neuroscience-pdf",
+   "title": "PhD Students / Postdocs: AI and Neuroscience",
+   "url": "https://liebelab.github.io/positions/phd-postdoc-ai-neuroscience.pdf",
+   "source": "Bernstein Network",
+   "institution": "Hertie AI / Hertie Institute for Clinical Brain Research",
+   "country": "Almanya",
+   "deadline": "2027-01-15",
+   "topic": "Nöro",
+   "relevance": 2,
+   "matched": [
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-27",
+   "langsChecked": true,
+   "emails": [
+    "stefanie.liebe@uni-tuebingen.de"
+   ],
+   "note": "Eşleşen: ai"
+  },
+  "nature-com-naturecareers-job-12867246-postdoc-agentic-ai-for-self-driving-labs-in-materials-science": {
+   "id": "nature-com-naturecareers-job-12867246-postdoc-agentic-ai-for-self-driving-labs-in-materials-science",
+   "title": "Postdoc: Agentic AI for Self-Driving Labs in Materials Science",
+   "url": "https://www.nature.com/naturecareers/job/12867246/postdoc-agentic-ai-for-self-driving-labs-in-materials-science/",
+   "source": "Nature Careers",
+   "institution": "Helmholtz Association of German Research Centres",
+   "country": "Almanya",
+   "deadline": "2027-01-25",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "biomedical",
+    "machine learning",
+    "artificial intelligence"
+   ],
+   "langs": [
+    "Python"
+   ],
+   "foundAt": "2026-11-27",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: biomedical, machine learning, artificial intelligence"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-EF6YAVUN4BVPCDXL6SNZ3IZOSNHLMA3Q": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-EF6YAVUN4BVPCDXL6SNZ3IZOSNHLMA3Q",
+   "title": "Open PhD/postdoc positions: Human Electrophysiology & AI, Tübingen",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/EF6YAVUN4BVPCDXL6SNZ3IZOSNHLMA3Q/",
+   "source": "comp-neuro listesi",
+   "institution": "",
+   "country": "Almanya",
+   "deadline": "2027-01-15",
+   "topic": "Nöro",
+   "relevance": 3,
+   "matched": [
+    "neuroai",
+    "eeg",
+    "machine learning",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-27",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "stefanie.liebe@uni-tuebingen.de",
+    "comp-neuro@lists.cnsorg.org-EF6YAVUN4BVPCDXL6SNZ3IZOSNHLMA3Q.mbox.gz"
+   ],
+   "note": "Eşleşen: neuroai, eeg, machine learning, ai"
+  },
+  "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-HM5EUV2J5N55RV3P5TDBEA6I3LSZRO4Z": {
+   "id": "lists-cnsorg-org-hyperkitty-list-comp-neuro-lists-cnsorg-org-thread-HM5EUV2J5N55RV3P5TDBEA6I3LSZRO4Z",
+   "title": "Postdoc position in Paris (ENS-PSL): language models with human-like working memory",
+   "url": "https://lists.cnsorg.org/hyperkitty/list/comp-neuro@lists.cnsorg.org/thread/HM5EUV2J5N55RV3P5TDBEA6I3LSZRO4Z/",
+   "source": "comp-neuro listesi",
+   "institution": "",
+   "country": "Fransa",
+   "deadline": "2027-01-31",
+   "topic": "Nöro",
+   "relevance": 2,
+   "matched": [
+    "computational neuroscience",
+    "neuroai",
+    "fmri",
+    "machine learning",
+    "large language model"
+   ],
+   "langs": [
+    "Python",
+    "PyTorch"
+   ],
+   "foundAt": "2026-11-27",
+   "langsChecked": true,
+   "emails": [
+    "comp-neuro@lists.cnsorg.org",
+    "yair.lakretz@gmail.com",
+    "comp-neuro@lists.cnsorg.org-HM5EUV2J5N55RV3P5TDBEA6I3LSZRO4Z.mbox.gz"
+   ],
+   "note": "Eşleşen: computational neuroscience, neuroai, fmri, machine learning"
+  },
+  "euraxess-ec-europa-eu-jobs-483626": {
+   "id": "euraxess-ec-europa-eu-jobs-483626",
+   "title": "Open call for Wacław Sierpiński Postdoctoral Programme",
+   "url": "https://euraxess.ec.europa.eu/jobs/483626",
+   "source": "EURAXESS",
+   "institution": "Institute of Mathematics of the Polish Academy of Sciences",
+   "country": "Polonya",
+   "deadline": "2027-01-30",
+   "topic": "ML",
+   "relevance": 2,
+   "matched": [
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-27",
+   "langsChecked": true,
+   "emails": [
+    "konkurs@impan.pl"
+   ],
+   "note": "Eşleşen: ai"
   }
  },
- "lastRun": "2026-11-27T00:32:46.430Z",
+ "lastRun": "2026-11-27T14:57:25.296Z",
  "log": [
+  "27/11 17:57  bot: 90 sayfa (79 açıldı, 11 açılmadı: AcademicPositions, EURAXESS), 7 aday, 5 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "27/11 03:32  bot: 90 sayfa (67 açıldı, 23 açılmadı: AcademicPositions, CRA Career Center, Science Careers, EURAXESS), 2 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 59 sn",
   "26/11 03:15  bot: 90 sayfa (66 açıldı, 24 açılmadı: AcademicPositions, jobs.ac.uk, EURAXESS), 3 aday, 2 yeni ilan, 0 eski ilan okundu, 1 süresi geçmiş ilan silindi, 13 sn",
   "25/11 18:30  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 4 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 28 sn",
@@ -3111,20 +3233,18 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 1,
+ "lastAdded": 5,
  "lastStats": {
   "pages": 90,
-  "ok": 67,
-  "fail": 23,
+  "ok": 79,
+  "fail": 11,
   "failedSources": [
    "AcademicPositions",
-   "CRA Career Center",
-   "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 2,
-  "added": 1,
+  "candidates": 7,
+  "added": 5,
   "backfilled": 0,
-  "seconds": 59
+  "seconds": 14
  }
 }
