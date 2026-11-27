@@ -3024,10 +3024,34 @@
     "vincent.russo@ionq.co"
    ],
    "note": "Eşleşen: quantum computing, quantum algorithm, quantum software"
+  },
+  "nature-com-naturecareers-job-12867223-postdoc-agentic-ai-for-self-driving-labs-in-materials-science": {
+   "id": "nature-com-naturecareers-job-12867223-postdoc-agentic-ai-for-self-driving-labs-in-materials-science",
+   "title": "Postdoc: Agentic AI for Self-Driving Labs in Materials Science",
+   "url": "https://www.nature.com/naturecareers/job/12867223/postdoc-agentic-ai-for-self-driving-labs-in-materials-science/",
+   "source": "Nature Careers",
+   "institution": "Helmholtz-Zentrum Hereon",
+   "country": "Almanya",
+   "deadline": "2027-01-03",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "biomedical",
+    "machine learning",
+    "artificial intelligence"
+   ],
+   "langs": [
+    "Python"
+   ],
+   "foundAt": "2026-11-27",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: biomedical, machine learning, artificial intelligence"
   }
  },
- "lastRun": "2026-11-26T00:15:01.750Z",
+ "lastRun": "2026-11-27T00:32:46.430Z",
  "log": [
+  "27/11 03:32  bot: 90 sayfa (67 açıldı, 23 açılmadı: AcademicPositions, CRA Career Center, Science Careers, EURAXESS), 2 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 59 sn",
   "26/11 03:15  bot: 90 sayfa (66 açıldı, 24 açılmadı: AcademicPositions, jobs.ac.uk, EURAXESS), 3 aday, 2 yeni ilan, 0 eski ilan okundu, 1 süresi geçmiş ilan silindi, 13 sn",
   "25/11 18:30  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 4 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 28 sn",
   "25/11 03:35  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, jobs.ac.uk, Science Careers, EURAXESS), 3 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
@@ -3087,19 +3111,20 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 2,
+ "lastAdded": 1,
  "lastStats": {
   "pages": 90,
-  "ok": 66,
-  "fail": 24,
+  "ok": 67,
+  "fail": 23,
   "failedSources": [
    "AcademicPositions",
-   "jobs.ac.uk",
+   "CRA Career Center",
+   "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 3,
-  "added": 2,
+  "candidates": 2,
+  "added": 1,
   "backfilled": 0,
-  "seconds": 13
+  "seconds": 59
  }
 }
