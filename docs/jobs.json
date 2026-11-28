@@ -3170,10 +3170,65 @@
    "langsChecked": true,
    "emails": [],
    "note": "Eşleşen: bioinformatics, computational biology, omics, machine learning"
+  },
+  "quantiki-org-position-research-scientist-theory-online-decoders-neqxt": {
+   "id": "quantiki-org-position-research-scientist-theory-online-decoders-neqxt",
+   "title": "Research Scientist (Theory) Online Decoders at neQxt",
+   "url": "https://www.quantiki.org/position/research-scientist-theory-online-decoders-neqxt",
+   "source": "Quantiki",
+   "institution": "",
+   "country": "Almanya",
+   "deadline": null,
+   "topic": "Kuantum",
+   "relevance": 2,
+   "matched": [
+    "quantum computing",
+    "quantum information",
+    "quantum computer"
+   ],
+   "langs": [
+    "Python",
+    "Julia",
+    "C++",
+    "Rust"
+   ],
+   "foundAt": "2026-11-28",
+   "langsChecked": true,
+   "emails": [
+    "career@neqxt.org",
+    "s.heussen@neqxt.org"
+   ],
+   "note": "Eşleşen: quantum computing, quantum information, quantum computer"
+  },
+  "euraxess-ec-europa-eu-jobs-483712": {
+   "id": "euraxess-ec-europa-eu-jobs-483712",
+   "title": "Postdoc on 3D Real-to-Sim Robot World Models (UvA+TOYOTA)",
+   "url": "https://euraxess.ec.europa.eu/jobs/483712",
+   "source": "EURAXESS",
+   "institution": "University of Amsterdam (UvA) via AcademicTransfer",
+   "country": "Hollanda",
+   "deadline": "2026-12-04",
+   "topic": "ML",
+   "relevance": 2,
+   "matched": [
+    "computer vision",
+    "ai"
+   ],
+   "langs": [
+    "PyTorch",
+    "JAX"
+   ],
+   "foundAt": "2026-11-28",
+   "langsChecked": true,
+   "emails": [
+    "e.gavves@uva.nl"
+   ],
+   "note": "Eşleşen: computer vision, ai"
   }
  },
- "lastRun": "2026-11-28T00:00:44.244Z",
+ "lastRun": "2026-11-28T14:07:23.006Z",
  "log": [
+  "28/11 17:07  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 4 aday, 2 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 36 sn",
   "28/11 03:00  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 1 süresi geçmiş ilan silindi, 48 sn",
   "27/11 17:57  bot: 90 sayfa (79 açıldı, 11 açılmadı: AcademicPositions, EURAXESS), 7 aday, 5 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "27/11 03:32  bot: 90 sayfa (67 açıldı, 23 açılmadı: AcademicPositions, CRA Career Center, Science Careers, EURAXESS), 2 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 59 sn",
@@ -3232,11 +3287,10 @@
   "30/10 23:42  bot: 90 sayfa (59 açıldı, 31 açılmadı: AcademicPositions, Nature Careers, CRA Career Center, Science Careers, EURAXESS, Nature Careers ABD), 7 aday, 0 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 16 sn",
   "30/10 14:20  bot: 90 sayfa (59 açıldı, 31 açılmadı: AcademicPositions, AcademicTransfer, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 10 aday, 3 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 18 sn",
   "30/10 00:03  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, Nature Careers ABD, EURAXESS), 9 aday, 1 yeni ilan, 2 eski ilan okundu, 0 süresi geçmiş ilan silindi, 20 sn",
-  "29/10 15:22  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD, Quantiki), 6 aday, 0 yeni ilan, 10 eski ilan okundu, 0 süresi geçmiş ilan silindi, 51 sn",
-  "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
+  "29/10 15:22  bot: 90 sayfa (60 açıldı, 30 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD, Quantiki), 6 aday, 0 yeni ilan, 10 eski ilan okundu, 0 süresi geçmiş ilan silindi, 51 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 1,
+ "lastAdded": 2,
  "lastStats": {
   "pages": 90,
   "ok": 73,
@@ -3246,9 +3300,9 @@
    "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 3,
-  "added": 1,
+  "candidates": 4,
+  "added": 2,
   "backfilled": 0,
-  "seconds": 48
+  "seconds": 36
  }
 }
