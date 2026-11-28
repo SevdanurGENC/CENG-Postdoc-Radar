@@ -72,27 +72,6 @@
     "roshan.cools@donders.ru.nl"
    ]
   },
-  "academictransfer-com-en-jobs-364986-postdoc-markerless-motion-capture-for-home-monitoring-in-neurological-populations": {
-   "id": "academictransfer-com-en-jobs-364986-postdoc-markerless-motion-capture-for-home-monitoring-in-neurological-populations",
-   "title": "Postdoc: Markerless Motion Capture for Home Monitoring in Neurological Populations",
-   "institution": "TU Delft",
-   "country": "Hollanda",
-   "deadline": "2026-11-13",
-   "url": "https://www.academictransfer.com/en/jobs/364986/postdoc-markerless-motion-capture-for-home-monitoring-in-neurological-populations/",
-   "source": "AcademicTransfer",
-   "topic": "Nöro",
-   "relevance": 2,
-   "note": "Bilgisayarlı görü ve nörolojik hasta takibi.",
-   "foundAt": "2026-10-24",
-   "langs": [
-    "Python",
-    "MATLAB"
-   ],
-   "langsChecked": true,
-   "emails": [
-    "e.vanderkruk@tudelft.nl"
-   ]
-  },
   "academicpositions-com-ad-university-of-luxembourg-2026-postdoc-in-computational-biology-and-machine-learning-245699": {
    "id": "academicpositions-com-ad-university-of-luxembourg-2026-postdoc-in-computational-biology-and-machine-learning-245699",
    "title": "Postdoc in Computational Biology and Machine Learning",
@@ -3168,10 +3147,34 @@
     "konkurs@impan.pl"
    ],
    "note": "Eşleşen: ai"
+  },
+  "ure-com-naturecareers-job-12866123-postdoctoral-research-associate-computational-biology-computational-mass-spectrometry": {
+   "id": "ure-com-naturecareers-job-12866123-postdoctoral-research-associate-computational-biology-computational-mass-spectrometry",
+   "title": "Postdoctoral Research Associate - Computational biology/computational mass spectrometry",
+   "url": "https://www.nature.com/naturecareers/job/12866123/postdoctoral-research-associate-computational-biology-computational-mass-spectrometry/",
+   "source": "Nature Careers ABD",
+   "institution": "Ludwig Princeton Branch, Princeton University",
+   "country": "ABD",
+   "deadline": "2026-12-26",
+   "topic": "Biyo",
+   "relevance": 3,
+   "matched": [
+    "bioinformatics",
+    "computational biology",
+    "omics",
+    "machine learning",
+    "ai"
+   ],
+   "langs": [],
+   "foundAt": "2026-11-28",
+   "langsChecked": true,
+   "emails": [],
+   "note": "Eşleşen: bioinformatics, computational biology, omics, machine learning"
   }
  },
- "lastRun": "2026-11-27T14:57:25.296Z",
+ "lastRun": "2026-11-28T00:00:44.244Z",
  "log": [
+  "28/11 03:00  bot: 90 sayfa (73 açıldı, 17 açılmadı: AcademicPositions, Science Careers, EURAXESS), 3 aday, 1 yeni ilan, 0 eski ilan okundu, 1 süresi geçmiş ilan silindi, 48 sn",
   "27/11 17:57  bot: 90 sayfa (79 açıldı, 11 açılmadı: AcademicPositions, EURAXESS), 7 aday, 5 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 14 sn",
   "27/11 03:32  bot: 90 sayfa (67 açıldı, 23 açılmadı: AcademicPositions, CRA Career Center, Science Careers, EURAXESS), 2 aday, 1 yeni ilan, 0 eski ilan okundu, 0 süresi geçmiş ilan silindi, 59 sn",
   "26/11 03:15  bot: 90 sayfa (66 açıldı, 24 açılmadı: AcademicPositions, jobs.ac.uk, EURAXESS), 3 aday, 2 yeni ilan, 0 eski ilan okundu, 1 süresi geçmiş ilan silindi, 13 sn",
@@ -3233,18 +3236,19 @@
   "29/10 15:00  bot: 90 sayfa (61 açıldı, 29 açılmadı: AcademicPositions, Nature Careers, Science Careers, EURAXESS, Nature Careers ABD), 64 aday, 56 yeni ilan, 12 eski ilan okundu, 0 süresi geçmiş ilan silindi, 39 sn"
  ],
  "repo": "SevdanurGENC/CENG-Postdoc-Radar",
- "lastAdded": 5,
+ "lastAdded": 1,
  "lastStats": {
   "pages": 90,
-  "ok": 79,
-  "fail": 11,
+  "ok": 73,
+  "fail": 17,
   "failedSources": [
    "AcademicPositions",
+   "Science Careers",
    "EURAXESS"
   ],
-  "candidates": 7,
-  "added": 5,
+  "candidates": 3,
+  "added": 1,
   "backfilled": 0,
-  "seconds": 14
+  "seconds": 48
  }
 }
